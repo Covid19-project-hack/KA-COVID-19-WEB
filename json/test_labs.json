@@ -1,0 +1,448 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Hassan Inst Of Med Sciences, Hassan",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " Mysore Medical College Research Institute, Mysore",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Shivamogga Institute of Medical Sciences, Shivamogga",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Command Hospital Air Force , Bengaluru",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Bangalore Medical College Research Institute, Bengaluru",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " ICMR National Institute of Virology, Bangalore Field Unit, Bengaluru",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Indian Institute of Science, Bengaluru Department of Biochemistry, Centre for Infectious Disease Research ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Gulbarga Institute of Medical Sciences, Gulbarga",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Vijaynagar Institute of Medical Sciences, Bellary",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " National Institute of Mental Health and Neuro Sciences, Bangalore ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Wenlock District Hospital, Mangalore",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Karnataka Institute of Medical Sciences, Hubli",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " National Institute of Traditional Medicine, Belagavi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Dharwad Institute of Mental Health Neurosciences, Dharwad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " Kidwai Memorial Institute of Oncology, Bengaluru",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " Instem, Bengaluru",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "17",
+            "name": " Mandya Institute of Medical Sciences MIMS , Mandya",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " Chamarajanagar Institute of Medical Sciences CIMS , Chamarajanagar District",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " Gadag Institute of Medical Sciences, Gadag",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " Kodagu Institute of Medical Sciences KOIMS , Kodagu District",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "21",
+            "name": " Government Virus Diagnostic Laboratory, Shimoga District",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "22",
+            "name": " Raichur Institute of Medical Sciences, Raichur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "23",
+            "name": " Bidar Institute of Medical Sciences, Bidar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "24",
+            "name": " Koppal Institute of Medical Sciences, Koppal ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "25",
+            "name": " Karwar Institute of Medical Sciences, Karwar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "26",
+            "name": " Tumkur District Hospital, Tumkur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "27",
+            "name": " Bowring Lady Curzon Medical College and Research Institute BLCMRI , Bangalore",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "28",
+            "name": " SNR District Hospital, Kolar ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "29",
+            "name": " Public health Laboratory, Chikkaballapur District Hospital, Chikkaballapur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "30",
+            "name": " Public Health Laboratory, Chikmagalur District Hospital, Chikmagalur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "31",
+            "name": " Udupi District Hospital, Udupi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "32",
+            "name": " Yadgiri District Hospital, Yadgiri",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "33",
+            "name": " Chitradurga District Hospital, Chitradurga",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "34",
+            "name": " District Public Health Laboratory, Kolar District",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "35",
+            "name": " District Public Health Laboratory, Chamarajanagar District",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "36",
+            "name": " Bangalore Bruhat Mahanagara Palike BBMP Health Centre Fever Clinic , Adugodi, Bangalore",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "37",
+            "name": " District Public Health Laboratory, Ramanagara District ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "38",
+            "name": " Jayadeva Institute of Cardiac Sciences, Bangalore ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "39",
+            "name": " Vijayapura District Hospital, Vijayapura",
+            "type": "Government",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "40",
+            "name": " Belgaum Institute of Medical Sciences, Belgaum",
+            "type": "Government",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "41",
+            "name": " Bagalkot District Hospital, Bagalkot ",
+            "type": "Government",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "42",
+            "name": "Neuberg Anand Reference Laboratory, Anand Tower, , Bowring Hospital Road, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "43",
+            "name": " Cancyte Technologies Pvt Ltd, Sri Shankara Research Centre, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "44",
+            "name": " Central Diagnostic Lab, Vydehi Institute of Medical Sciences and Research Centre, ,",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "45",
+            "name": "E P I P Area, Whitefield, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "46",
+            "name": " Syngene International Limited, Biocon Park, SEZ, Bommasandra Industrial Area, Phase IV, Bommasandra Jigani Link Road, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "47",
+            "name": " Department of Lab Medicine, Narayana Hrudayalaya Ltd, A, Bommasandra Industrial Area, Hosur Road, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "48",
+            "name": " Aster Clinical Lab LLP, No , Venkatappa Road, Tasker Town, Vasanthanagar, Bangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "49",
+            "name": " Microbiological Lab, D , KIADB Industrial Area, st Phase, Kumbalagidu, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "50",
+            "name": " Yenepoya Medical College Hospital Lab,",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "51",
+            "name": "Nithyananda Nagar, Derlakatte, Mangaluru ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "52",
+            "name": " Hybrinomics Life Science and diagnostics LLP, Site No , Maruthi Township, B Hanumanthanagar, Bileshivale, Doddagubbi Post, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "53",
+            "name": " Shamanur Shivashankarappa Institute of Medical Sciences and Research Centre SSIMSRC , Davangere",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "54",
+            "name": " XCyton Diagnostics Pvt Ltd Molecular Diagnostic Services, , th Cross, th phase, Peenya, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "55",
+            "name": " St Johns Medical College and Hospital, Bangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "56",
+            "name": " Kasturba Medical College Manipal",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "57",
+            "name": " Father Muller s Medical College, Mangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "58",
+            "name": " JJM Medical College JJMMC , Davangere",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "59",
+            "name": " Manipal Hospital, Bangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "60",
+            "name": " Sakra World Hospital Lab Services, Devarabeesanahalli VArthur Hobli, Bengaluru",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "61",
+            "name": " Kasturba Medical College, Mangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "62",
+            "name": " KS Hegde Medical Academy KSHEMA , Mangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "63",
+            "name": " Narayana Nethralaya, Department of Molecular Diagnostics, Bangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "64",
+            "name": " Lab Services, Apollo Hospitals, , Bannerghatta Road, Bengaluru ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "65",
+            "name": " Kempegowda Institute of Medical Sciences, Bangalore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "66",
+            "name": " United Hospitals, Kalburgi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "67",
+            "name": " Mediclu Diagnostics, Bangalore ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "68",
+            "name": " KLES Dr Prabhakar Kore Hospital MRC Hi Tech Lab, NehruNagar, Belgaum, Belagavi",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "69",
+            "name": " Dept of Pathology Lab Medicine, Aster CMI Hospital, , NH , International Airport Rd, Sahakar Nagar, Bengaluru",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "70",
+            "name": " Dept of Lab Medicine, Vikram Hospital Pvt Ltd, No , Millers Road, Bengaluru",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "71",
+            "name": " Department of Laboratory Medicine and Pathology, Columbia Asia Referral Hospital, Yeshwantpur, , Brigade Gateway, Malleshwaram West, Bengaluru",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "72",
+            "name": " SRL Limited at Fortis hospitals, , Bannerghatta Main Road, Bengaluru",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "73",
+            "name": " Trident Diagnostics Healthcare Pvt Ltd, , nd main Jagajyothi Nagara, feet outer Ring Road, Kenchanapura Cross bus stop, Nagadevanahalli, Bengaluru",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        },
+        {
+            "sno": "74",
+            "name": " NMR Diagnostics Pvt Ltd, Maratha Mandal Building, P B Road, Dharwad",
+            "type": "Private",
+            "test_type": "CD NAAT"
+        }
+    ]
+}

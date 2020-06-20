@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "Bagalkote",
+            "phone_number": "08354-236240, 08354-236240/1077"
+        },
+        {
+            "sno": "2",
+            "district": "Bellary",
+            "phone_number": "08392-1077, 08392-277100, 8277888866 (Whatsapp no)"
+        },
+        {
+            "sno": "3",
+            "district": "Belagavi",
+            "phone_number": "0831-2407290(1077), 0831-2424284"
+        },
+        {
+            "sno": "4",
+            "district": "Bengaluru Urban",
+            "phone_number": "080-1077, 080-22967200"
+        },
+        {
+            "sno": "5",
+            "district": "Bengaluru Rural",
+            "phone_number": "080-29781021"
+        },
+        {
+            "sno": "6",
+            "district": "Bidar",
+            "phone_number": "18004254316"
+        },
+        {
+            "sno": "7",
+            "district": "Chamarajanagar",
+            "phone_number": "08226-1077, 08226-223160"
+        },
+        {
+            "sno": "8",
+            "district": "Chikkabalapur",
+            "phone_number": "08156-1077/277071"
+        },
+        {
+            "sno": "9",
+            "district": "Chikamangaluru",
+            "phone_number": "08262-238950, 08262-1077"
+        },
+        {
+            "sno": "10",
+            "district": "Chitradurga",
+            "phone_number": "08194-222050/222044/222027/222056/222035"
+        },
+        {
+            "sno": "11",
+            "district": "Davangere",
+            "phone_number": "08192-234034, 08192-1077"
+        },
+        {
+            "sno": "12",
+            "district": "Dharwad",
+            "phone_number": "0836-1077/2447547"
+        },
+        {
+            "sno": "13",
+            "district": "Gadag",
+            "phone_number": "08372-239177, 08372-1077"
+        },
+        {
+            "sno": "14",
+            "district": "Hassan",
+            "phone_number": "08172-261111/1077"
+        },
+        {
+            "sno": "15",
+            "district": "Haveri",
+            "phone_number": "08375-249102/249104"
+        },
+        {
+            "sno": "16",
+            "district": "Kalaburgi",
+            "phone_number": "1047, 08472278698, 08472278677, 08472278648, 08472278604"
+        },
+        {
+            "sno": "17",
+            "district": "Uttara Kannada",
+            "phone_number": "1077, 08382-229857"
+        },
+        {
+            "sno": "18",
+            "district": "Kolar",
+            "phone_number": "08152-243521"
+        },
+        {
+            "sno": "19",
+            "district": "Koppal",
+            "phone_number": "08539-225001"
+        },
+        {
+            "sno": "20",
+            "district": "Kodagu",
+            "phone_number": "08272220606, 08272-1077"
+        },
+        {
+            "sno": "21",
+            "district": "Mandya",
+            "phone_number": "08231-1077, 08232-224655"
+        },
+        {
+            "sno": "22",
+            "district": "Dakshina Kannada",
+            "phone_number": "0824-1077, 0824-2442590"
+        },
+        {
+            "sno": "23",
+            "district": "Mysuru",
+            "phone_number": "0821-2423800, 0821-1077"
+        },
+        {
+            "sno": "24",
+            "district": "Raichur",
+            "phone_number": "08532-228559, 08532-1095, 08532-1077, 08532-226383, 08532-226020"
+        },
+        {
+            "sno": "25",
+            "district": "Ramanagara",
+            "phone_number": "8277517672, 080-27271195, 080-27276615"
+        },
+        {
+            "sno": "26",
+            "district": "Shivamogga",
+            "phone_number": "08182-221010, 08182-1077"
+        },
+        {
+            "sno": "27",
+            "district": "Tumakuru",
+            "phone_number": "08162-1077/ 278787/ 251414/ 257368/ 252025/ 252321"
+        },
+        {
+            "sno": "28",
+            "district": "Udupi",
+            "phone_number": "9663957222, 9663950222"
+        },
+        {
+            "sno": "29",
+            "district": "Vijayapura",
+            "phone_number": "08352-1077, 08352221261"
+        },
+        {
+            "sno": "30",
+            "district": "Yadagiri",
+            "phone_number": "08473-253950, 9449933946"
+        }
+    ]
+}

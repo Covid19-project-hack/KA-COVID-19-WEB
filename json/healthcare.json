@@ -1,0 +1,6247 @@
+{
+    "fc": [
+        {
+            "sno": "1",
+            "district": "Bagalkot",
+            "name": "UPHC Navanagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "2",
+            "district": "Bagalkot",
+            "name": "UPHC Ilkal",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "3",
+            "district": "Bagalkot",
+            "name": "UPHC Terdal",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "4",
+            "district": "Bagalkot",
+            "name": "UPHC Mudhol",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "5",
+            "district": "Bagalkot",
+            "name": "UPHC Jamkhandi",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "6",
+            "district": "Bagalkot",
+            "name": "Urban Primary Health Center Rabkavi",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "7",
+            "district": "Bagalkot",
+            "name": "CHC Mahalingpur",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "8",
+            "district": "Bagalkot",
+            "name": "TH Mudhol",
+            "type": "Government TH"
+        },
+        {
+            "sno": "9",
+            "district": "Bagalkot",
+            "name": "CHC Rabakvi Banhatti",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "10",
+            "district": "Bagalkot",
+            "name": "TH Jamakhandi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "11",
+            "district": "Bagalkot",
+            "name": "CHC Girisagar",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "12",
+            "district": "Bagalkot",
+            "name": "TH Bilagi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "13",
+            "district": "Bagalkot",
+            "name": "CHC Kudalasangam",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "14",
+            "district": "Bagalkot",
+            "name": "GH Ilkal",
+            "type": "Government TH"
+        },
+        {
+            "sno": "15",
+            "district": "Bagalkot",
+            "name": "Taluk Hospital Hunagund",
+            "type": "Government TH"
+        },
+        {
+            "sno": "16",
+            "district": "Bagalkot",
+            "name": "CHC Guledagudda",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "17",
+            "district": "Bagalkot",
+            "name": "CHC Kerur",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "18",
+            "district": "Bagalkot",
+            "name": "Taluk Hospital Badami",
+            "type": "Government TH"
+        },
+        {
+            "sno": "19",
+            "district": "Bagalkot",
+            "name": "Fifty Bed Hospital Bagalkote",
+            "type": "Government TH"
+        },
+        {
+            "sno": "20",
+            "district": "Bagalkot",
+            "name": "District Hospital Bagalkote",
+            "type": "Government DH"
+        },
+        {
+            "sno": "21",
+            "district": "Bangalore Rural",
+            "name": "Srinivasa Speciality Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "22",
+            "district": "Bangalore Rural",
+            "name": "MVJ MC and RH",
+            "type": "Private"
+        },
+        {
+            "sno": "23",
+            "district": "Bangalore Rural",
+            "name": "Sri Siddhartha Institute Of Medical Sciences And Research Centre",
+            "type": "Private"
+        },
+        {
+            "sno": "24",
+            "district": "Bangalore Rural",
+            "name": "GENERAL HOSPITAL DEVANAHALLI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "25",
+            "district": "Bangalore Rural",
+            "name": "GENERAL HOSPITAL HOSAKOTE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "26",
+            "district": "Bangalore Rural",
+            "name": "GENERAL HOSPITAL NELAMANGALA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "27",
+            "district": "Bangalore Rural",
+            "name": "PHC SULIBELE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "28",
+            "district": "Bangalore Rural",
+            "name": "PHC NANDAGUDI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "29",
+            "district": "Bangalore Rural",
+            "name": "CHC VIJAYAPURA",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "30",
+            "district": "Bangalore Rural",
+            "name": "CHC THYAMAGONDLU",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "31",
+            "district": "Bangalore Rural",
+            "name": "URBAN HEALTH CENTRE DODDABALLAPURA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "32",
+            "district": "Bangalore Rural",
+            "name": "GENERAL HOSPITAL DODDABALLAPURA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "33",
+            "district": "Bangalore urban",
+            "name": "PHC Chandapura",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "34",
+            "district": "Bangalore urban",
+            "name": "PHC Jigani",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "35",
+            "district": "Bangalore urban",
+            "name": "PHC Hebbagodi",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "36",
+            "district": "Bangalore urban",
+            "name": "PHC Haragadde",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "37",
+            "district": "Bangalore urban",
+            "name": "PHC Attibele",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "38",
+            "district": "Bangalore urban",
+            "name": "CHC Avalahalli",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "39",
+            "district": "Bangalore urban",
+            "name": "PHC Mandur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "40",
+            "district": "Bangalore urban",
+            "name": "PHC Kannur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "41",
+            "district": "Bangalore urban",
+            "name": "PHC Bidrahalli",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "42",
+            "district": "Bangalore urban",
+            "name": "PHC Kadusonnappanahalli",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "43",
+            "district": "Bangalore urban",
+            "name": "CHC Kaggalipura",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "44",
+            "district": "Bangalore urban",
+            "name": "CHC Chandrappa Circle",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "45",
+            "district": "Bangalore urban",
+            "name": "PHC Kumbalagudu",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "46",
+            "district": "Bangalore urban",
+            "name": "PHC K Gollahalli",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "47",
+            "district": "Bangalore urban",
+            "name": "PHC Tavarekere",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "48",
+            "district": "Bangalore urban",
+            "name": "PHC Chikkabanavara",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "49",
+            "district": "Bangalore urban",
+            "name": "PHC Rajanukunte",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "50",
+            "district": "Bangalore urban",
+            "name": "PHC Makalli",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "51",
+            "district": "Bangalore urban",
+            "name": "PHC Hesaraghatta",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "52",
+            "district": "Bangalore urban",
+            "name": "PHC Chikkajala",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "53",
+            "district": "Bangalore urban",
+            "name": "K G HALLI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "54",
+            "district": "Bangalore urban",
+            "name": "Kodihalli UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "55",
+            "district": "Bangalore urban",
+            "name": "Taskar Town",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "56",
+            "district": "Bangalore urban",
+            "name": "Mejestic Transtic Clinic",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "57",
+            "district": "Bangalore urban",
+            "name": "Yeshwanthapura Transit clinic",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "58",
+            "district": "Bangalore urban",
+            "name": "Ulsoor RH",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "59",
+            "district": "Bangalore urban",
+            "name": "Sulthan Palya UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "60",
+            "district": "Bangalore urban",
+            "name": "M R Palya UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "61",
+            "district": "Bangalore urban",
+            "name": "Adugodi UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "62",
+            "district": "Bangalore urban",
+            "name": "BANASHANKARI RH UCHC",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "63",
+            "district": "Bangalore urban",
+            "name": "WEST OF CHORD ROAD UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "64",
+            "district": "Bangalore urban",
+            "name": "VIDYA PEETHA UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "65",
+            "district": "Bangalore urban",
+            "name": "H SIDDAIAH ROAD RH UCHC",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "66",
+            "district": "Bangalore urban",
+            "name": "J P NAGAR UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "67",
+            "district": "Bangalore urban",
+            "name": "SRI RAMPURA REFFERAL HOSPITAL",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "68",
+            "district": "Bangalore urban",
+            "name": "Nethaji Circle UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "69",
+            "district": "Bangalore urban",
+            "name": "Nagappa block UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "70",
+            "district": "Bangalore urban",
+            "name": "MOODALA PALYA UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "71",
+            "district": "Bangalore urban",
+            "name": "MAHALAKSHIMI LAYOUT UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "72",
+            "district": "Bangalore urban",
+            "name": "KODANDRAPURA UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "73",
+            "district": "Bangalore urban",
+            "name": "GORI PALYA RH UCHC",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "74",
+            "district": "Bangalore urban",
+            "name": "GH ANEKAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "75",
+            "district": "Bangalore urban",
+            "name": "GH KR PURAM",
+            "type": "Government TH"
+        },
+        {
+            "sno": "76",
+            "district": "Bangalore urban",
+            "name": "MARATHAHALLI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "77",
+            "district": "Bangalore urban",
+            "name": "GH YELAHANKA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "78",
+            "district": "Bangalore urban",
+            "name": "HEROHALLI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "79",
+            "district": "Bangalore urban",
+            "name": "MALLASANDRA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "80",
+            "district": "Bangalore urban",
+            "name": "LAGGERE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "81",
+            "district": "Bangalore urban",
+            "name": "KODIGEHALLI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "82",
+            "district": "Bangalore urban",
+            "name": "BEGURU",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "83",
+            "district": "Bangalore urban",
+            "name": "KONANKUNTE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "84",
+            "district": "Belgaum",
+            "name": "DR Naik Hospital Munavalli",
+            "type": "Private"
+        },
+        {
+            "sno": "85",
+            "district": "Belgaum",
+            "name": "MILITARY HOSPITAL",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "86",
+            "district": "Belgaum",
+            "name": "VIJAY HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "87",
+            "district": "Belgaum",
+            "name": "BHS LAKEVIEW HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "88",
+            "district": "Belgaum",
+            "name": "KLE HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "89",
+            "district": "Belgaum",
+            "name": "General Hospital Gokak",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "90",
+            "district": "Belgaum",
+            "name": "CHC YARAGATTI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "91",
+            "district": "Belgaum",
+            "name": "CHC HOSKOTI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "92",
+            "district": "Belgaum",
+            "name": "CHC MUGALKHED",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "93",
+            "district": "Belgaum",
+            "name": "CHC KUDACHI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "94",
+            "district": "Belgaum",
+            "name": "CHC NANGAD",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "95",
+            "district": "Belgaum",
+            "name": "CHC NIDASOSI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "96",
+            "district": "Belgaum",
+            "name": "CHC SANKESHWAR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "97",
+            "district": "Belgaum",
+            "name": "CHC MUDALAGI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "98",
+            "district": "Belgaum",
+            "name": "GH ATHANI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "99",
+            "district": "Belgaum",
+            "name": "GH BAILHONGAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "100",
+            "district": "Belgaum",
+            "name": "GH CHIKODI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "101",
+            "district": "Belgaum",
+            "name": "GH KHANAPUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "102",
+            "district": "Belgaum",
+            "name": "GH HUKKERI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "103",
+            "district": "Belgaum",
+            "name": "GH RAIBAG",
+            "type": "Government TH"
+        },
+        {
+            "sno": "104",
+            "district": "Belgaum",
+            "name": "GH RAMDURG",
+            "type": "Government TH"
+        },
+        {
+            "sno": "105",
+            "district": "Belgaum",
+            "name": "GH SOUDATTI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "106",
+            "district": "Belgaum",
+            "name": "DISTRICT HOSPITAL BELAGAVI",
+            "type": "Government DH"
+        },
+        {
+            "sno": "107",
+            "district": "Belgaum",
+            "name": "CHC KAGWAD",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "108",
+            "district": "Belgaum",
+            "name": "CHC BELWADI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "109",
+            "district": "Belgaum",
+            "name": "CHC KITTUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "110",
+            "district": "Belgaum",
+            "name": "CHC NAGANUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "111",
+            "district": "Belgaum",
+            "name": "CHC HIREBAGEWADI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "112",
+            "district": "Belgaum",
+            "name": "CHC EXAMBA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "113",
+            "district": "Belgaum",
+            "name": "CHC NIPANI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "114",
+            "district": "Belgaum",
+            "name": "CHC KABUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "115",
+            "district": "Bellary",
+            "name": "GOVT HIGH SCHOOL SIRUGUPPA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "116",
+            "district": "Bellary",
+            "name": "HARA HARA TEMPLE HBHalli",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "117",
+            "district": "Bellary",
+            "name": "THO Office Kudligi",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "118",
+            "district": "Bellary",
+            "name": "CHC Kotturu",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "119",
+            "district": "Bellary",
+            "name": "OLD ENGG COLLEGE HADAGALI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "120",
+            "district": "Bellary",
+            "name": "Sandur Ayurvedhik Hospital",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "121",
+            "district": "Bellary",
+            "name": "GOVT HIGH SCHOOL Thoranagallu",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "122",
+            "district": "Bellary",
+            "name": "Kurugodu Guest House",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "123",
+            "district": "Bellary",
+            "name": "Kampli Govt High School",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "124",
+            "district": "Bellary",
+            "name": "Akashavani Hospet",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "125",
+            "district": "Bellary",
+            "name": "DAM Road Hospet",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "126",
+            "district": "Bellary",
+            "name": "Cowl Bazar Ballari",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "127",
+            "district": "Bellary",
+            "name": "Gandhinagar Ballari",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "128",
+            "district": "Bellary",
+            "name": "TANK BUND ROAD",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "129",
+            "district": "Bellary",
+            "name": "GOVT AYUVEDIC HOSPITAL Harapanahalli",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "130",
+            "district": "Bellary",
+            "name": "VIMS Hospital"
+        },
+        {
+            "sno": "131",
+            "district": "Bidar",
+            "name": "CHC HALLIKHED B",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "132",
+            "district": "Bidar",
+            "name": "UPHC POLICE HEALTH CENTRE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "133",
+            "district": "Bidar",
+            "name": "10 BEDDED UPHC BIDAR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "134",
+            "district": "Bidar",
+            "name": "UPHC NAUBAD",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "135",
+            "district": "Bidar",
+            "name": "UPHC KUMBARWADA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "136",
+            "district": "Bidar",
+            "name": "UPHC BIDRI COLONY",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "137",
+            "district": "Bidar",
+            "name": "UPHC BASAVAKALYAN",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "138",
+            "district": "Bidar",
+            "name": "CHC KAMALNAGAR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "139",
+            "district": "Bidar",
+            "name": "TGH BHALKI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "140",
+            "district": "Bidar",
+            "name": "BRIMS BIDAR",
+            "type": "Government DH"
+        },
+        {
+            "sno": "141",
+            "district": "Bidar",
+            "name": "CHC CHITAGUPPA",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "142",
+            "district": "Bidar",
+            "name": "TGH HUMNABAD",
+            "type": "Government TH"
+        },
+        {
+            "sno": "143",
+            "district": "Bidar",
+            "name": "TGH BASAVAKALYAN",
+            "type": "Government TH"
+        },
+        {
+            "sno": "144",
+            "district": "Bidar",
+            "name": "CHC MANNAEKHELLI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "145",
+            "district": "Bidar",
+            "name": "CHC RAJESHWAR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "146",
+            "district": "Bidar",
+            "name": "TGH AURAD",
+            "type": "Government TH"
+        },
+        {
+            "sno": "147",
+            "district": "Bidar",
+            "name": "CHC SANTPUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "148",
+            "district": "Bidar",
+            "name": "CHC HULSUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "149",
+            "district": "Bidar",
+            "name": "CHC NITTUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "150",
+            "district": "Bijapur",
+            "name": "Community Health Center Chadchan",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "151",
+            "district": "Bijapur",
+            "name": "Community Health Center Tadavalaga",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "152",
+            "district": "Bijapur",
+            "name": "Community Health Center kalakeri",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "153",
+            "district": "Bijapur",
+            "name": "Community Health Center Mortagi",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "154",
+            "district": "Bijapur",
+            "name": "Community Health Center Almel",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "155",
+            "district": "Bijapur",
+            "name": "Community Health Center Talikoti",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "156",
+            "district": "Bijapur",
+            "name": "Community Health Center Naltwad",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "157",
+            "district": "Bijapur",
+            "name": "Community Health Center Nidagundi",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "158",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Sindagi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "159",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Muddebihal",
+            "type": "Government TH"
+        },
+        {
+            "sno": "160",
+            "district": "Bijapur",
+            "name": "Taluka Hospital indi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "161",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Bagewadi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "162",
+            "district": "Bijapur",
+            "name": "District Hospital Vijayapur",
+            "type": "Government DH"
+        },
+        {
+            "sno": "163",
+            "district": "Chamarajanagar",
+            "name": "GH KOLLEGALA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "164",
+            "district": "Chamarajanagar",
+            "name": "HANURU PHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "165",
+            "district": "Chamarajanagar",
+            "name": "GH GUNDLUPETE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "166",
+            "district": "Chamarajanagar",
+            "name": "GH Yelanduru",
+            "type": "Government TH"
+        },
+        {
+            "sno": "167",
+            "district": "Chamarajanagar",
+            "name": "District Hospital Chamarajanagar",
+            "type": "Government DH"
+        },
+        {
+            "sno": "168",
+            "district": "Chikkaballapura",
+            "name": "Urban Health Center Gauribidanur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "169",
+            "district": "Chikkaballapura",
+            "name": "Urban Health Center Sidlaghatta",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "170",
+            "district": "Chikkaballapura",
+            "name": "Urban Health Center Chinthamani",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "171",
+            "district": "Chikkaballapura",
+            "name": "Primary Health Center Alipura Gauribidanur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "172",
+            "district": "Chikkaballapura",
+            "name": "Urban Health Center Kandwara Chikkaballapur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "173",
+            "district": "Chikkaballapura",
+            "name": "General Hospital Gauribidanur",
+            "type": "Government TH"
+        },
+        {
+            "sno": "174",
+            "district": "Chikkaballapura",
+            "name": "General Hospital Gudibande",
+            "type": "Government TH"
+        },
+        {
+            "sno": "175",
+            "district": "Chikkaballapura",
+            "name": "General Hospital Sidlaghatta",
+            "type": "Government TH"
+        },
+        {
+            "sno": "176",
+            "district": "Chikkaballapura",
+            "name": "General Hospital Chintamani",
+            "type": "Government TH"
+        },
+        {
+            "sno": "177",
+            "district": "Chikkaballapura",
+            "name": "General Hospital Bagepalli",
+            "type": "Government TH"
+        },
+        {
+            "sno": "178",
+            "district": "Chikkaballapura",
+            "name": "District Hospital Chikkaballapur"
+        },
+        {
+            "sno": "179",
+            "district": "Chikmagalur",
+            "name": "URBAN PRIMARY HEALTH CENTER B",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "180",
+            "district": "Chikmagalur",
+            "name": "URBAN PRIMARY HEALTH CENTRE A",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "181",
+            "district": "Chikmagalur",
+            "name": "ARALAGUPPE MALLEGOWDA DISTRICT HOSPITAL",
+            "type": "Government DH"
+        },
+        {
+            "sno": "182",
+            "district": "Chikmagalur",
+            "name": "TALUK GENERAL HOSPITAL THARIKERE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "183",
+            "district": "Chikmagalur",
+            "name": "TALUK GENERAL HOSPITAL SRINGERE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "184",
+            "district": "Chikmagalur",
+            "name": "MSDM TALUK GENERAL HOSPITAL KOPPA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "185",
+            "district": "Chikmagalur",
+            "name": "TALUK GENERAL HOSPITAL KADUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "186",
+            "district": "Chikmagalur",
+            "name": "TALUK GENERAL HOSPITAL MUDIGERE"
+        },
+        {
+            "sno": "187",
+            "district": "Chikmagalur",
+            "name": "TALUK GENERAL HOSPITAL N R PURA"
+        },
+        {
+            "sno": "188",
+            "district": "Chitradurga",
+            "name": "UPHC HIRIYUR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "189",
+            "district": "Chitradurga",
+            "name": "UPHC CHALLAKERE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "190",
+            "district": "Chitradurga",
+            "name": "UPHC BUDDANAGARA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "191",
+            "district": "Chitradurga",
+            "name": "UPHC MARUTHINAGARA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "192",
+            "district": "Chitradurga",
+            "name": "UPHC CHITRADURGA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "193",
+            "district": "Chitradurga",
+            "name": "BASAVESHWARA HOSPITAL CHITRADURGA",
+            "type": "Private"
+        },
+        {
+            "sno": "194",
+            "district": "Chitradurga",
+            "name": "PRIMARY HEALTH CENTRE BHEEMASAMUDRA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "195",
+            "district": "Chitradurga",
+            "name": "SJM ARTS AND COMMERCE COLLEGE HOLALKERE ROAD CHITRADURGA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "196",
+            "district": "Chitradurga",
+            "name": "GURUBHAVANA MOLAKALMUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "197",
+            "district": "Chitradurga",
+            "name": "PATHIL BASAPPA CHOULTRY RAMPURA",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "198",
+            "district": "Chitradurga",
+            "name": "GOVERNMENT HOSPITAL HOLALKERE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "199",
+            "district": "Chitradurga",
+            "name": "GOVERNMENT HOSPITAL PREMISES HOSADURGA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "200",
+            "district": "Chitradurga",
+            "name": "CHC PREMISES SRIRAMPURA",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "201",
+            "district": "Chitradurga",
+            "name": "GOVT HIGH SCHOOL PARASHURAMPURA",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "202",
+            "district": "Chitradurga",
+            "name": "CHAMBER OF COMMERCE SAMUDYA BHAVANA BENGALORE ROAD CHALLAKERE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "203",
+            "district": "Chitradurga",
+            "name": "TANYASI GOUNDAR SAMUDAYA BHAVANA HIRIYUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "204",
+            "district": "Chitradurga",
+            "name": "PRIMARY HEALTH CENTRE IMANGALA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "205",
+            "district": "Dakshina Kannada",
+            "name": "CHC SULLYA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "206",
+            "district": "Dakshina Kannada",
+            "name": "TALUKA HOSPITAL BANTWAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "207",
+            "district": "Dakshina Kannada",
+            "name": "GENERAL HOSPITAL PUTTUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "208",
+            "district": "Dakshina Kannada",
+            "name": "TALUKA HOSPITAL BELTHANGADY",
+            "type": "Government TH"
+        },
+        {
+            "sno": "209",
+            "district": "Dakshina Kannada",
+            "name": "WENLOCK DISTRICT HOSPITAL",
+            "type": "Government DH"
+        },
+        {
+            "sno": "210",
+            "district": "Dakshina Kannada",
+            "name": "KANACHUR HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "211",
+            "district": "Dakshina Kannada",
+            "name": "KVG HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "212",
+            "district": "Dakshina Kannada",
+            "name": "K S HEGADE HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "213",
+            "district": "Dakshina Kannada",
+            "name": "SRINIVAS MEDICAL COLLEGE HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "214",
+            "district": "Dakshina Kannada",
+            "name": "YENEPOYA MEDICAL COLLEGE HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "215",
+            "district": "Dakshina Kannada",
+            "name": "KMC HOSPITAL ATTAVARA",
+            "type": "Private"
+        },
+        {
+            "sno": "216",
+            "district": "Dakshina Kannada",
+            "name": "FATHER MULLER MEDICAL COLLEGE HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "217",
+            "district": "Dakshina Kannada",
+            "name": "AJ MEDICAL COLLEGE HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "218",
+            "district": "Davanagere",
+            "name": "UPHC Harlapur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "219",
+            "district": "Davanagere",
+            "name": "UFWC 03 Sriram Nagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "220",
+            "district": "Davanagere",
+            "name": "GENERAL HOSPITAL HONNALI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "221",
+            "district": "Davanagere",
+            "name": "SMK NAGAR UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "222",
+            "district": "Davanagere",
+            "name": "CHC SANTHEBENNUR",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "223",
+            "district": "Davanagere",
+            "name": "CHC KEREBILACHI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "224",
+            "district": "Davanagere",
+            "name": "G H HARIHAR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "225",
+            "district": "Davanagere",
+            "name": "chc malebennur",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "226",
+            "district": "Davanagere",
+            "name": "Primary health center Bilichodu",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "227",
+            "district": "Davanagere",
+            "name": "GH jagaluru",
+            "type": "Government TH"
+        },
+        {
+            "sno": "228",
+            "district": "Davanagere",
+            "name": "GH channagiri",
+            "type": "Government TH"
+        },
+        {
+            "sno": "229",
+            "district": "Davanagere",
+            "name": "COMMUNITY HEALTH CENTER NYAMATHI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "230",
+            "district": "Davanagere",
+            "name": "ESI hospital",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "231",
+            "district": "Davanagere",
+            "name": "Bapuji Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "232",
+            "district": "Davanagere",
+            "name": "AZAD nagara",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "233",
+            "district": "Davanagere",
+            "name": "Bhasanagara UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "234",
+            "district": "Davanagere",
+            "name": "CG hospital",
+            "type": "Government DH"
+        },
+        {
+            "sno": "235",
+            "district": "Dharwad",
+            "name": "SDM Medical College",
+            "type": "Private"
+        },
+        {
+            "sno": "236",
+            "district": "Dharwad",
+            "name": "Central Railway Hospital",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "237",
+            "district": "Dharwad",
+            "name": "Chitaguppi UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "238",
+            "district": "Dharwad",
+            "name": "PUROHITNAGR UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "239",
+            "district": "Dharwad",
+            "name": "Barakotri UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "240",
+            "district": "Dharwad",
+            "name": "MadarMaddi UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "241",
+            "district": "Dharwad",
+            "name": "Karnataka Institute of Medical Sciences KIMS 2",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "242",
+            "district": "Dharwad",
+            "name": "Karnataka Institute of Medical Sciences KIMS 1",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "243",
+            "district": "Dharwad",
+            "name": "District Hospital",
+            "type": "Government DH"
+        },
+        {
+            "sno": "244",
+            "district": "Gadag",
+            "name": "Urban Primary Health Centre Rehamath Nagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "245",
+            "district": "Gadag",
+            "name": "Urban Primary Health Centre BETAGERI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "246",
+            "district": "Gadag",
+            "name": "Urban Primary Health Centre BETAGERI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "247",
+            "district": "Gadag",
+            "name": "Urban Primary Health Centre Gadag",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "248",
+            "district": "Gadag",
+            "name": "CHC Gajendragada",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "249",
+            "district": "Gadag",
+            "name": "CHC Laxmeshwara",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "250",
+            "district": "Gadag",
+            "name": "Taluk Hospital Naragunda",
+            "type": "Government TH"
+        },
+        {
+            "sno": "251",
+            "district": "Gadag",
+            "name": "Taluka Hospital Ron",
+            "type": "Government TH"
+        },
+        {
+            "sno": "252",
+            "district": "Gadag",
+            "name": "Taluka Hospital Shirahatti",
+            "type": "Government TH"
+        },
+        {
+            "sno": "253",
+            "district": "Gadag",
+            "name": "Taluka Hospital Mundaragi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "254",
+            "district": "Gadag",
+            "name": "GIMS Gadag",
+            "type": "Government DH"
+        },
+        {
+            "sno": "255",
+            "district": "Hassan",
+            "name": "URBAN PRIMARY HEALTH CENTER ARASIKERE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "256",
+            "district": "Hassan",
+            "name": "Sri M Krishna Urban Primary Health center",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "257",
+            "district": "Hassan",
+            "name": "CHC Hirisave",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "258",
+            "district": "Hassan",
+            "name": "CHC Shravanabelgola",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "259",
+            "district": "Hassan",
+            "name": "HIMS"
+        },
+        {
+            "sno": "260",
+            "district": "Hassan",
+            "name": "CHC Halebeedu",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "261",
+            "district": "Hassan",
+            "name": "G H Arasikere"
+        },
+        {
+            "sno": "262",
+            "district": "Hassan",
+            "name": "GH Belur"
+        },
+        {
+            "sno": "263",
+            "district": "Hassan",
+            "name": "GH Holenarasipura"
+        },
+        {
+            "sno": "264",
+            "district": "Hassan",
+            "name": "G H Sakaleshpura"
+        },
+        {
+            "sno": "265",
+            "district": "Hassan",
+            "name": "G H Arakalgud"
+        },
+        {
+            "sno": "266",
+            "district": "Hassan",
+            "name": "GH Chanarayapatna"
+        },
+        {
+            "sno": "267",
+            "district": "Hassan",
+            "name": "GH alur"
+        },
+        {
+            "sno": "268",
+            "district": "Haveri",
+            "name": "Trauma Care Centre TH Byadagi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "269",
+            "district": "Haveri",
+            "name": "MKBS Kannada school",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "270",
+            "district": "Haveri",
+            "name": "Taluka Level Hospital Savanur",
+            "type": "Government TH"
+        },
+        {
+            "sno": "271",
+            "district": "Haveri",
+            "name": "UPHC 1 Ranebennur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "272",
+            "district": "Haveri",
+            "name": "UPHC Savanur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "273",
+            "district": "Haveri",
+            "name": "UPHC HAVERI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "274",
+            "district": "Haveri",
+            "name": "KEB Wedding Hall",
+            "type": "Private"
+        },
+        {
+            "sno": "275",
+            "district": "Kalaburagi",
+            "name": "FC 15 UPHC Manikeshwari",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "276",
+            "district": "Kalaburagi",
+            "name": "FC 14 UPHC HEERAPUR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "277",
+            "district": "Kalaburagi",
+            "name": "Afzlapur General Hospital",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "278",
+            "district": "Kalaburagi",
+            "name": "FC 13 Govt HPS Roza Line 2",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "279",
+            "district": "Kalaburagi",
+            "name": "FC 12 Al Ameen Higher Priamry School",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "280",
+            "district": "Kalaburagi",
+            "name": "FC 11 Arabbi Madarsa",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "281",
+            "district": "Kalaburagi",
+            "name": "FC 10 Govt Primary School adarsh Nagr",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "282",
+            "district": "Kalaburagi",
+            "name": "FC 9 Hajj Committe",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "283",
+            "district": "Kalaburagi",
+            "name": "FC 8 Govt Primary School",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "284",
+            "district": "Kalaburagi",
+            "name": "Noori Public School",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "285",
+            "district": "Kalaburagi",
+            "name": "Umar Colony Azad Pur Raod",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "286",
+            "district": "Kalaburagi",
+            "name": "Limra Public School",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "287",
+            "district": "Kalaburagi",
+            "name": "Maternity Health Centre Tarfile",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "288",
+            "district": "Kalaburagi",
+            "name": "Urban Health Centre New Rehemat Nagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "289",
+            "district": "Kalaburagi",
+            "name": "Urban Health Centre Shivaji Nagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "290",
+            "district": "Kalaburagi",
+            "name": "Urban Health Centre Ashok Nagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "291",
+            "district": "Kodagu",
+            "name": "UPHC MADIKERI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "292",
+            "district": "Kodagu",
+            "name": "Kodagu Institute of Medical Science",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "293",
+            "district": "Kodagu",
+            "name": "General Hospital Somawarpet",
+            "type": "Government TH"
+        },
+        {
+            "sno": "294",
+            "district": "Kodagu",
+            "name": "General Hospital Virajpet",
+            "type": "Government TH"
+        },
+        {
+            "sno": "295",
+            "district": "Kodagu",
+            "name": "Urban Health Facility Madikeri",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "296",
+            "district": "Kolar",
+            "name": "SAMBHRAM HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "297",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL K G F",
+            "type": "Government TH"
+        },
+        {
+            "sno": "298",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL MALUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "299",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL SRINIVASPUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "300",
+            "district": "Kolar",
+            "name": "S N R DISTRICT HOSPITAL KOLAR",
+            "type": "Government DH"
+        },
+        {
+            "sno": "301",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL MULBAGAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "302",
+            "district": "Kolar",
+            "name": "UPHC MULBAGAL",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "303",
+            "district": "Kolar",
+            "name": "UPHC RAHAMATHNAGAR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "304",
+            "district": "Kolar",
+            "name": "UPHC KOLAR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "305",
+            "district": "Kolar",
+            "name": "UPHC GANDHINAGAR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "306",
+            "district": "Kolar",
+            "name": "UPHC DARGAMOHALLA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "307",
+            "district": "Kolar",
+            "name": "UPHC OORGAUMPET",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "308",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL BANGARPET",
+            "type": "Government TH"
+        },
+        {
+            "sno": "309",
+            "district": "Kolar",
+            "name": "R L Jalappa Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "310",
+            "district": "Koppal",
+            "name": "Govt MLA Module Primary School Yelburga",
+            "type": "Government TH"
+        },
+        {
+            "sno": "311",
+            "district": "Koppal",
+            "name": "Govt SC ST Boys Hostel Kustagi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "312",
+            "district": "Koppal",
+            "name": "Urban Primary Health Center Gangawati2",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "313",
+            "district": "Koppal",
+            "name": "Urban Primary Health Center Koppal",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "314",
+            "district": "Mandya",
+            "name": "Guthalu",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "315",
+            "district": "Mandya",
+            "name": "CHC Bellur",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "316",
+            "district": "Mandya",
+            "name": "CHC Bookanakere",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "317",
+            "district": "Mandya",
+            "name": "MIMS",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "318",
+            "district": "Mandya",
+            "name": "Taluk Hospital Krishnarajpet",
+            "type": "Government TH"
+        },
+        {
+            "sno": "319",
+            "district": "Mandya",
+            "name": "Kyathumgere",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "320",
+            "district": "Mandya",
+            "name": "Taluk Hospital Pandavapura",
+            "type": "Government TH"
+        },
+        {
+            "sno": "321",
+            "district": "Mandya",
+            "name": "AIMS",
+            "type": "Private"
+        },
+        {
+            "sno": "322",
+            "district": "Mandya",
+            "name": "Taluk Hospital Nagamangala",
+            "type": "Government TH"
+        },
+        {
+            "sno": "323",
+            "district": "Mandya",
+            "name": "Taluk Hospital Sriranga patna",
+            "type": "Government TH"
+        },
+        {
+            "sno": "324",
+            "district": "Mandya",
+            "name": "Taluk Hospital Malavalli",
+            "type": "Government TH"
+        },
+        {
+            "sno": "325",
+            "district": "Mandya",
+            "name": "Taluk Hospital Maddur"
+        },
+        {
+            "sno": "326",
+            "district": "Mandya",
+            "name": "shankarpura"
+        },
+        {
+            "sno": "327",
+            "district": "Mysore",
+            "name": "URBAN PRIMARY HEATH CENTRE",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "328",
+            "district": "Mysore",
+            "name": "UPHC T K Layout",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "329",
+            "district": "Mysore",
+            "name": "PHC MMK",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "330",
+            "district": "Mysore",
+            "name": "UPHC Kuvempunagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "331",
+            "district": "Mysore",
+            "name": "UPHC Subramanaynagar",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "332",
+            "district": "Mysore",
+            "name": "UPHC N H Palya",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "333",
+            "district": "Mysore",
+            "name": "UPHC Eranagrere",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "334",
+            "district": "Mysore",
+            "name": "UPHC Bannimatap",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "335",
+            "district": "Mysore",
+            "name": "UPHC Shanthinagara",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "336",
+            "district": "Mysore",
+            "name": "UPHC Rajendranagara",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "337",
+            "district": "Mysore",
+            "name": "Chamundipuram",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "338",
+            "district": "Raichur",
+            "name": "Taluka General Hospital Manvi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "339",
+            "district": "Raichur",
+            "name": "Taluka General Hospital Lingasugur",
+            "type": "Government TH"
+        },
+        {
+            "sno": "340",
+            "district": "Raichur",
+            "name": "Taluka General Hospital Devadurga",
+            "type": "Government TH"
+        },
+        {
+            "sno": "341",
+            "district": "Raichur",
+            "name": "Taluka General Hospital Sindhanur",
+            "type": "Government TH"
+        },
+        {
+            "sno": "342",
+            "district": "Raichur",
+            "name": "CHC Anehosur",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "343",
+            "district": "Raichur",
+            "name": "CHC Mudgal",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "344",
+            "district": "Raichur",
+            "name": "CHC Kavithal",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "345",
+            "district": "Raichur",
+            "name": "CHC Arkera",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "346",
+            "district": "Raichur",
+            "name": "CHC Jalahalli",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "347",
+            "district": "Raichur",
+            "name": "CHC J Mallapur",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "348",
+            "district": "Raichur",
+            "name": "UPHC Devaracolony",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "349",
+            "district": "Raichur",
+            "name": "UPHC Harijanawada"
+        },
+        {
+            "sno": "350",
+            "district": "Raichur",
+            "name": "UPHC Siyatalab"
+        },
+        {
+            "sno": "351",
+            "district": "Raichur",
+            "name": "UPHC Zahirabad"
+        },
+        {
+            "sno": "352",
+            "district": "Ramanagara",
+            "name": "PHC V G doodi",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "353",
+            "district": "Ramanagara",
+            "name": "CHC soluru",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "354",
+            "district": "Ramanagara",
+            "name": "CHC sathnuru",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "355",
+            "district": "Ramanagara",
+            "name": "CHC Harohalli",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "356",
+            "district": "Ramanagara",
+            "name": "CHC Bidadi",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "357",
+            "district": "Ramanagara",
+            "name": "UPHC Kanakapura",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "358",
+            "district": "Ramanagara",
+            "name": "UPHC Rayaradoddi"
+        },
+        {
+            "sno": "359",
+            "district": "Ramanagara",
+            "name": "UPHC Mehaboobnagara"
+        },
+        {
+            "sno": "360",
+            "district": "Ramanagara",
+            "name": "UPHC1 islampura channapatana",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "361",
+            "district": "Ramanagara",
+            "name": "UPHC islampura channapatana"
+        },
+        {
+            "sno": "362",
+            "district": "Shimoga",
+            "name": "District McGann Hospital",
+            "type": "Government DH"
+        },
+        {
+            "sno": "363",
+            "district": "Shimoga",
+            "name": "AshwathNagara UHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "364",
+            "district": "Shimoga",
+            "name": "UHC JANNAPURA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "365",
+            "district": "Shimoga",
+            "name": "Vidya Nagara UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "366",
+            "district": "Shimoga",
+            "name": "Bapuji Nagara UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "367",
+            "district": "Shimoga",
+            "name": "Bommanakatte UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "368",
+            "district": "Shimoga",
+            "name": "Tunga Nagara UPHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "369",
+            "district": "Shimoga",
+            "name": "General Hospital Thirthahalli",
+            "type": "Government TH"
+        },
+        {
+            "sno": "370",
+            "district": "Shimoga",
+            "name": "General Hospital Soraba",
+            "type": "Government TH"
+        },
+        {
+            "sno": "371",
+            "district": "Shimoga",
+            "name": "General Hospital Shikaripura",
+            "type": "Government TH"
+        },
+        {
+            "sno": "372",
+            "district": "Shimoga",
+            "name": "General Hospital Hosanagara",
+            "type": "Government TH"
+        },
+        {
+            "sno": "373",
+            "district": "Shimoga",
+            "name": "General Hospital Sagara",
+            "type": "Government TH"
+        },
+        {
+            "sno": "374",
+            "district": "Shimoga",
+            "name": "General Hospital Bhadravathi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "375",
+            "district": "Tumkur",
+            "name": "CHOWDANAKUPPE PHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "376",
+            "district": "Tumkur",
+            "name": "PHC UJJANI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "377",
+            "district": "Tumkur",
+            "name": "PHC",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "378",
+            "district": "Tumkur",
+            "name": "PHC Sri Siddaganga Mata",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "379",
+            "district": "Tumkur",
+            "name": "PHC Kythasandra Tumkur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "380",
+            "district": "Tumkur",
+            "name": "P H Colony Siddartha Govt High School Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "381",
+            "district": "Tumkur",
+            "name": "Near Sheshadripuram College Govt High School Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "382",
+            "district": "Tumkur",
+            "name": "Toda Layout Rajivgandhi Nagara Backward Boys Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "383",
+            "district": "Tumkur",
+            "name": "PHC Kuripalya Tumkur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "384",
+            "district": "Tumkur",
+            "name": "Sthyamangala Anganawadi Kendra Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "385",
+            "district": "Tumkur",
+            "name": "PHC Siragate Tumkur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "386",
+            "district": "Tumkur",
+            "name": "Goud Shed colony Anganawadi kendra Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "387",
+            "district": "Tumkur",
+            "name": "Geddalahalli Anganawadi kendra Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "388",
+            "district": "Tumkur",
+            "name": "JANATHA COLONY Anganawadi centre",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "389",
+            "district": "Tumkur",
+            "name": "PHC SHANTHINAGARA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "390",
+            "district": "Tumkur",
+            "name": "Dibburu Tumkur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "391",
+            "district": "Tumkur",
+            "name": "Hanumanthapura",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "392",
+            "district": "Tumkur",
+            "name": "uphc kothithopu tumkur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "393",
+            "district": "Tumkur",
+            "name": "UPHC KUNIGAL",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "394",
+            "district": "Tumkur",
+            "name": "UPHC Kothithopu",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "395",
+            "district": "Tumkur",
+            "name": "dibbru asharaya colony conferance hall",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "396",
+            "district": "Tumkur",
+            "name": "phc yadavani",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "397",
+            "district": "Tumkur",
+            "name": "phc yadavani",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "398",
+            "district": "Tumkur",
+            "name": "UPHC KUNIGAL",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "399",
+            "district": "Tumkur",
+            "name": "UPHC SIRA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "400",
+            "district": "Tumkur",
+            "name": "UPHC KUNIGAL",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "401",
+            "district": "Tumkur",
+            "name": "URBAN PRIMARY HEALTH CENTER",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "402",
+            "district": "Tumkur",
+            "name": "URBAN PRIMARY HEALTH CENTER",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "403",
+            "district": "Tumkur",
+            "name": "UPHC AGRAHARA",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "404",
+            "district": "Tumkur",
+            "name": "District Hospital Tumakuru",
+            "type": "Government DH"
+        },
+        {
+            "sno": "405",
+            "district": "Tumkur",
+            "name": "Gen Hospital Turuvekere",
+            "type": "Government TH"
+        },
+        {
+            "sno": "406",
+            "district": "Tumkur",
+            "name": "Gen Hospital Sira",
+            "type": "Government TH"
+        },
+        {
+            "sno": "407",
+            "district": "Tumkur",
+            "name": "Gen Hospital C N Halli",
+            "type": "Government TH"
+        },
+        {
+            "sno": "408",
+            "district": "Tumkur",
+            "name": "Gen Hospital Madhugiri",
+            "type": "Government TH"
+        },
+        {
+            "sno": "409",
+            "district": "Tumkur",
+            "name": "UPHC Kunigal",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "410",
+            "district": "Tumkur",
+            "name": "UPHC Sira",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "411",
+            "district": "Tumkur",
+            "name": "UPHC Tiptur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "412",
+            "district": "Tumkur",
+            "name": "Gen Hospital Tiptur",
+            "type": "Government TH"
+        },
+        {
+            "sno": "413",
+            "district": "Tumkur",
+            "name": "Gen Hospital Gubbi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "414",
+            "district": "Tumkur",
+            "name": "Gen Hospital Koratagere",
+            "type": "Government TH"
+        },
+        {
+            "sno": "415",
+            "district": "Tumkur",
+            "name": "Gen Hospital Pavagada",
+            "type": "Government TH"
+        },
+        {
+            "sno": "416",
+            "district": "Tumkur",
+            "name": "UPHC Shettihalli",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "417",
+            "district": "Tumkur",
+            "name": "PHC Kuripalya",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "418",
+            "district": "Tumkur",
+            "name": "UPHC Kothithopu",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "419",
+            "district": "Tumkur",
+            "name": "UPHC Agrahara",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "420",
+            "district": "Tumkur",
+            "name": "District Hospital Tumakuru"
+        },
+        {
+            "sno": "421",
+            "district": "Udupi",
+            "name": "Taluk Hospital Kundapura",
+            "type": "Government TH"
+        },
+        {
+            "sno": "422",
+            "district": "Udupi",
+            "name": "Taluk Hospital Karkala",
+            "type": "Government TH"
+        },
+        {
+            "sno": "423",
+            "district": "Udupi",
+            "name": "District Hospital Udupi",
+            "type": "Government DH"
+        },
+        {
+            "sno": "424",
+            "district": "Uttara Kannada",
+            "name": "UPHC SIRSI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "425",
+            "district": "Uttara Kannada",
+            "name": "UPHC DANDELI",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "426",
+            "district": "Uttara Kannada",
+            "name": "UPHC KARWAR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "427",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL JOIDA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "428",
+            "district": "Uttara Kannada",
+            "name": "CHC DANDELI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "429",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL HALIYAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "430",
+            "district": "Uttara Kannada",
+            "name": "CHC PALA",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "431",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL MUNDGOD",
+            "type": "Government TH"
+        },
+        {
+            "sno": "432",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL YELLAPUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "433",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL SIDDAPUR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "434",
+            "district": "Uttara Kannada",
+            "name": "PANDIT GENERAL HOSPITAL SIRSI",
+            "type": "Government TH"
+        },
+        {
+            "sno": "435",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL BHATKAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "436",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL HONNAVAR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "437",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL KUMTA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "438",
+            "district": "Uttara Kannada",
+            "name": "TALUK HOSPITAL ANKOLA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "439",
+            "district": "Uttara Kannada",
+            "name": "KARWAR INSTITUTE OF MEDICAL SCIENCES TEACHING DISTRICT HOSPITAL KARWAR",
+            "type": "Government DH"
+        },
+        {
+            "sno": "440",
+            "district": "Yadgir",
+            "name": "Hunasagi Fever Clinic"
+        },
+        {
+            "sno": "441",
+            "district": "Yadgir",
+            "name": "Urban PHC Fever Clinic"
+        },
+        {
+            "sno": "442",
+            "district": "Yadgir",
+            "name": "Bhimarayana Gudi Fever Clinic"
+        },
+        {
+            "sno": "443",
+            "district": "Yadgir",
+            "name": "Gurmatkal Fever Clinic"
+        },
+        {
+            "sno": "444",
+            "district": "Yadgir",
+            "name": "Ayush Building Fever Clinic"
+        }
+    ],
+    "qc": [
+        {
+            "sno": "1",
+            "district": "Kalaburagi",
+            "name": "QC 3 Regional Surveyor Training Center",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "2",
+            "district": "Bangalore urban",
+            "name": "Treebo Trend Hotel Sahara Suites",
+            "type": "Private"
+        },
+        {
+            "sno": "3",
+            "district": "Belgaum",
+            "name": "HOTEL PAWAN",
+            "type": "Private"
+        },
+        {
+            "sno": "4",
+            "district": "Bagalkot",
+            "name": "Maharudrapana Halla Bagalkot",
+            "type": "Private"
+        },
+        {
+            "sno": "5",
+            "district": "Bagalkot",
+            "name": "Social welfare Boys Pre matrix Hostal Hosur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "6",
+            "district": "Haveri",
+            "name": "Rani chennamma Girls Hostel Byadagi",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "7",
+            "district": "Haveri",
+            "name": "Kittur Rani Chennamma Residential school Akkialur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "8",
+            "district": "Haveri",
+            "name": "Kittur Rani Chennamma School savanur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "9",
+            "district": "Bangalore urban",
+            "name": "Haj Bhavan",
+            "type": "Private"
+        },
+        {
+            "sno": "10",
+            "district": "Bangalore urban",
+            "name": "OYO Rajmahal comforts",
+            "type": "Private"
+        },
+        {
+            "sno": "11",
+            "district": "Bangalore urban",
+            "name": "KEYS HOTEL",
+            "type": "Private"
+        },
+        {
+            "sno": "12",
+            "district": "Kodagu",
+            "name": "RESORT NO 1 GALIBEEDU",
+            "type": "Private"
+        },
+        {
+            "sno": "13",
+            "district": "Chitradurga",
+            "name": "BCM Hostel Pavagada Road Challakere",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "14",
+            "district": "Chitradurga",
+            "name": "SOCIAL WELFARE DEPARTMENT Hostel ZP Near Chitradurga",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "15",
+            "district": "Chikkaballapura",
+            "name": "Murarji Desai Residential Hostel Minority Mastenahalli Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "16",
+            "district": "Chikkaballapura",
+            "name": "Smt Indiragandhi Nursing Metric PU Girls Hostel BCM Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "17",
+            "district": "Chikkaballapura",
+            "name": "Murarji Desai Residential Hostel Gadigavarahalli Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "18",
+            "district": "Chikkaballapura",
+            "name": "Kitturu Rani Chennamma Residential Hostel K Raguttahalli Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "19",
+            "district": "Chikkaballapura",
+            "name": "Community Health Center Batlahalli",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "20",
+            "district": "Chikkaballapura",
+            "name": "Primary Health Center Kaiwara",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "21",
+            "district": "Chikkaballapura",
+            "name": "Samudaya Bhavan Ashraya Badavane Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "22",
+            "district": "Chikkaballapura",
+            "name": "Post Metric Boys Hostel Bagepalli",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "23",
+            "district": "Chikkaballapura",
+            "name": "Balaji Convention Hall Vardanayakanahalli Gate Sidlaghatta",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "24",
+            "district": "Uttara Kannada",
+            "name": "BCM HOSTEL JOIDA",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "25",
+            "district": "Uttara Kannada",
+            "name": "KONKANA EDUCATION CENTRE KUMTA",
+            "type": "Private"
+        },
+        {
+            "sno": "26",
+            "district": "Uttara Kannada",
+            "name": "BCM HOSTEL ANKOLA",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "27",
+            "district": "Uttara Kannada",
+            "name": "NADAVARA SABHA BHAVANA ANKOLA",
+            "type": "Private"
+        },
+        {
+            "sno": "28",
+            "district": "Dharwad",
+            "name": "Vipra Hotel Hubli",
+            "type": "Private"
+        },
+        {
+            "sno": "29",
+            "district": "Dharwad",
+            "name": "Bharati Lodge Hubli",
+            "type": "Private"
+        },
+        {
+            "sno": "30",
+            "district": "Belgaum",
+            "name": "MAHATMA GANDHI HOSPITAL NIPPANI",
+            "type": "Private"
+        },
+        {
+            "sno": "31",
+            "district": "Belgaum",
+            "name": "MORARJI DESAI RESIDENTIAL SCHOOL HOSUR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "32",
+            "district": "Belgaum",
+            "name": "ASHRAM SHALE VASATI NILAYA KUDACHI",
+            "type": "Private"
+        },
+        {
+            "sno": "33",
+            "district": "Belgaum",
+            "name": "HOTEL RELAX BELAGAVI",
+            "type": "Private"
+        },
+        {
+            "sno": "34",
+            "district": "Belgaum",
+            "name": "HOTEL COMFORT IN BELAGAVI",
+            "type": "Private"
+        },
+        {
+            "sno": "35",
+            "district": "Belgaum",
+            "name": "HOTEL KAVERI BELAGAVI",
+            "type": "Private"
+        },
+        {
+            "sno": "36",
+            "district": "Belgaum",
+            "name": "HOTEL REX BELAGAVI",
+            "type": "Private"
+        },
+        {
+            "sno": "37",
+            "district": "Belgaum",
+            "name": "ANJUMAN ISLAMIYA BELAGAVI",
+            "type": "Private"
+        },
+        {
+            "sno": "38",
+            "district": "Davanagere",
+            "name": "HOSTEL COMPLEX HELI PAD GUTTUR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "39",
+            "district": "Davanagere",
+            "name": "NANDINI LODGE HARIHAR",
+            "type": "Private"
+        },
+        {
+            "sno": "40",
+            "district": "Davanagere",
+            "name": "NAVEEN LODGE HARIHAR",
+            "type": "Private"
+        },
+        {
+            "sno": "41",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Boys Hostel Gubbi",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "42",
+            "district": "Tumkur",
+            "name": "Murarji Hostel Gubbi",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "43",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Boys Hostel 02",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "44",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Boys Hostel Madhugiri",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "45",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Ladies Hostel Madhugiri",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "46",
+            "district": "Davanagere",
+            "name": "HOSTEL COMPLEX J H PATEL NAGARA",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "47",
+            "district": "Davanagere",
+            "name": "HOTEL SHOVEN",
+            "type": "Private"
+        },
+        {
+            "sno": "48",
+            "district": "Davanagere",
+            "name": "MADHURA LODGE",
+            "type": "Private"
+        },
+        {
+            "sno": "49",
+            "district": "Davanagere",
+            "name": "THRISHUL COMFORT",
+            "type": "Private"
+        },
+        {
+            "sno": "50",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Ladies Hostel Sira",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "51",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Boys Hostel Sira",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "52",
+            "district": "Davanagere",
+            "name": "APOORVA RESORT",
+            "type": "Private"
+        },
+        {
+            "sno": "53",
+            "district": "Tumkur",
+            "name": "MCH SIRA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "54",
+            "district": "Davanagere",
+            "name": "A N M center",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "55",
+            "district": "Bidar",
+            "name": "100 BEDED HOSPITAL",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "56",
+            "district": "Davanagere",
+            "name": "G H HARIHAR",
+            "type": "Government TH"
+        },
+        {
+            "sno": "57",
+            "district": "Kolar",
+            "name": "PHC TADIGAL CROSS SRINIVASPUR",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "58",
+            "district": "Kolar",
+            "name": "MDRS GOWNIPALLI SRINIVASPURA",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "59",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL SRINIVASPURA",
+            "type": "Government TH"
+        },
+        {
+            "sno": "60",
+            "district": "Kolar",
+            "name": "PU Boys Hostel SRINIVASPUR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "61",
+            "district": "Kolar",
+            "name": "High School Girls Hostel Srinivaspur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "62",
+            "district": "Kolar",
+            "name": "High School Girls Hostel Mulbagal",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "63",
+            "district": "Kolar",
+            "name": "KRCRS Hostel MULBAGAL",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "64",
+            "district": "Kolar",
+            "name": "Jain International School MULBAGAL",
+            "type": "Private"
+        },
+        {
+            "sno": "65",
+            "district": "Kolar",
+            "name": "Adarsha School THATHIKALLU MULBAGAL",
+            "type": "Private"
+        },
+        {
+            "sno": "66",
+            "district": "Mandya",
+            "name": "Gavimatta Morarjidesai Residential school K R Pet",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "67",
+            "district": "Kolar",
+            "name": "GENERAL HOSPITAL MULBAGAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "68",
+            "district": "Davanagere",
+            "name": "murarji hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "69",
+            "district": "Mandya",
+            "name": "BCM law hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "70",
+            "district": "Davanagere",
+            "name": "Shreya lodge",
+            "type": "Private"
+        },
+        {
+            "sno": "71",
+            "district": "Kolar",
+            "name": "PU Girls Hostel Division 2 KGF",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "72",
+            "district": "Kolar",
+            "name": "High School Girls Hostel ROBERSONPET KGF",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "73",
+            "district": "Davanagere",
+            "name": "Bharath lodge",
+            "type": "Private"
+        },
+        {
+            "sno": "74",
+            "district": "Kolar",
+            "name": "ED Hospital K G F",
+            "type": "Government TH"
+        },
+        {
+            "sno": "75",
+            "district": "Kolar",
+            "name": "PU Girls Hostel Division 1 KGF",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "76",
+            "district": "Kolar",
+            "name": "PU Boys Hostel CHAMPIONREEF KGF",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "77",
+            "district": "Kolar",
+            "name": "MDRS ROBERSONPET KGF",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "78",
+            "district": "Mandya",
+            "name": "Morarjidesai Residential school Malavalli",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "79",
+            "district": "Kolar",
+            "name": "PU Girls Hostel BANGARPET",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "80",
+            "district": "Kolar",
+            "name": "Professional Girls Hostel BANGARPET",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "81",
+            "district": "Kolar",
+            "name": "PU Boys Hostel BANGARPET",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "82",
+            "district": "Kolar",
+            "name": "High School Boys Hostel BANGARPET",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "83",
+            "district": "Kolar",
+            "name": "PU Girls Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "84",
+            "district": "Kolar",
+            "name": "PU Boys Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "85",
+            "district": "Kolar",
+            "name": "DBRARS",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "86",
+            "district": "Davanagere",
+            "name": "SRI MORARJI RESIDENTIAL SCHOOL",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "87",
+            "district": "Kolar",
+            "name": "High School Boys Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "88",
+            "district": "Davanagere",
+            "name": "SRI BAPUJI TARALABALU RURAL HOSPITAL",
+            "type": "Government TH"
+        },
+        {
+            "sno": "89",
+            "district": "Kolar",
+            "name": "PU Girls Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "90",
+            "district": "Kolar",
+            "name": "MDRS PU Gajaladinne",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "91",
+            "district": "Davanagere",
+            "name": "APSARA LODGE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "92",
+            "district": "Kolar",
+            "name": "PU Boys Hostel",
+            "type": "Private"
+        },
+        {
+            "sno": "93",
+            "district": "Davanagere",
+            "name": "SRI UDAYASIRI HOTEL AND LODGE",
+            "type": "Government TH"
+        },
+        {
+            "sno": "94",
+            "district": "Kolar",
+            "name": "PU Boys Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "95",
+            "district": "Bangalore Rural",
+            "name": "MVJ MC and RH",
+            "type": "Private"
+        },
+        {
+            "sno": "96",
+            "district": "Chamarajanagar",
+            "name": "Medical college Auditorium",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "97",
+            "district": "Bangalore Rural",
+            "name": "Akash Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "98",
+            "district": "Tumkur",
+            "name": "Govt college ladies Hostel Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "99",
+            "district": "Tumkur",
+            "name": "Govt PU College Hostel Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "100",
+            "district": "Raichur",
+            "name": "SC ST Girls Post Metric Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "101",
+            "district": "Koppal",
+            "name": "BCM Hostel Gangavathi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "102",
+            "district": "Haveri",
+            "name": "Govt Premetric Post metric girls hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "103",
+            "district": "Raichur",
+            "name": "BCM Hostel Yeragera Raichur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "104",
+            "district": "Raichur",
+            "name": "MDR Hostel Yeramarus Raichur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "105",
+            "district": "Raichur",
+            "name": "MDRS Bolmandoddi Road Raichur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "106",
+            "district": "Raichur",
+            "name": "MDR Hostel Chandraband Road Raichur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "107",
+            "district": "Dharwad",
+            "name": "Natraj Hotel HUBLI",
+            "type": "Private"
+        },
+        {
+            "sno": "108",
+            "district": "Dharwad",
+            "name": "Hotel Peacock Hubli",
+            "type": "Private"
+        },
+        {
+            "sno": "109",
+            "district": "Dharwad",
+            "name": "HOTEL METROPOLIS Hubli",
+            "type": "Private"
+        },
+        {
+            "sno": "110",
+            "district": "Dharwad",
+            "name": "Shringar Hotel Hubballi",
+            "type": "Private"
+        },
+        {
+            "sno": "111",
+            "district": "Gadag",
+            "name": "Muraji Desai Residential School Hirewaddatti",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "112",
+            "district": "Dharwad",
+            "name": "Hotel Chalukya Hubli",
+            "type": "Private"
+        },
+        {
+            "sno": "113",
+            "district": "Gadag",
+            "name": "S C Post Metric Boys Hostel Mundargi",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "114",
+            "district": "Dharwad",
+            "name": "Hotel Mayur Hubli",
+            "type": "Private"
+        },
+        {
+            "sno": "115",
+            "district": "Gadag",
+            "name": "D Devraj arasu B C M Pre Metric Hostel Doni",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "116",
+            "district": "Gadag",
+            "name": "Murarji Desai Residential School Kalakeshwar",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "117",
+            "district": "Dharwad",
+            "name": "Brudhavan Hotel Dharwad",
+            "type": "Private"
+        },
+        {
+            "sno": "118",
+            "district": "Dharwad",
+            "name": "Karnataka Bhavan Dharwad",
+            "type": "Private"
+        },
+        {
+            "sno": "119",
+            "district": "Gadag",
+            "name": "MURARJI SCHOOL BENAKOPPA",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "120",
+            "district": "Gadag",
+            "name": "Murarji Residential hostel Vader Mallapur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "121",
+            "district": "Davanagere",
+            "name": "Pooja hotel",
+            "type": "Private"
+        },
+        {
+            "sno": "122",
+            "district": "Gadag",
+            "name": "Prematric Boys Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "123",
+            "district": "Tumkur",
+            "name": "Ashiwini Ayurveda College Tumkur",
+            "type": "Private"
+        },
+        {
+            "sno": "124",
+            "district": "Gadag",
+            "name": "Morarji High School Boys Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "125",
+            "district": "Gadag",
+            "name": "Pre Matric Girls Hostel",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "126",
+            "district": "Tumkur",
+            "name": "Govt ladies Hostel Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "127",
+            "district": "Tumkur",
+            "name": "Govt Boys Hostel Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "128",
+            "district": "Gadag",
+            "name": "Morarji Desai School Mallasamudra",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "129",
+            "district": "Tumkur",
+            "name": "Govt Arts college Hostel Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "130",
+            "district": "Tumkur",
+            "name": "Govt Arts college Hostel Tumkur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "131",
+            "district": "Dakshina Kannada",
+            "name": "YENEPOYA HOSTEL",
+            "type": "Private"
+        },
+        {
+            "sno": "132",
+            "district": "Dakshina Kannada",
+            "name": "NITK HOSTEL SURATHKAL",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "133",
+            "district": "Dakshina Kannada",
+            "name": "INDIAN HOSPITAL AND HEART INSTITUTE",
+            "type": "Private"
+        },
+        {
+            "sno": "134",
+            "district": "Dakshina Kannada",
+            "name": "ESI HOSPITAL",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "135",
+            "district": "Kolar",
+            "name": "High School Boys Hostel Kolar",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "136",
+            "district": "Uttara Kannada",
+            "name": "BCM HOSTEL HONNAVAR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "137",
+            "district": "Uttara Kannada",
+            "name": "MURARJI DESAI HOSTEL DANDELI",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "138",
+            "district": "Uttara Kannada",
+            "name": "ESI HOSPITAL DANDELI",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "139",
+            "district": "Uttara Kannada",
+            "name": "CHC DANDELI",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "140",
+            "district": "Uttara Kannada",
+            "name": "DEVARAJ ARASU BHAVAN HALIYAL",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "141",
+            "district": "Uttara Kannada",
+            "name": "YATRI NIWAS HALIYAL",
+            "type": "Private"
+        },
+        {
+            "sno": "142",
+            "district": "Uttara Kannada",
+            "name": "LADIES HOSTEL HALIYAL",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "143",
+            "district": "Uttara Kannada",
+            "name": "AMBEDKAR BHAVAN SIRSI",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "144",
+            "district": "Uttara Kannada",
+            "name": "KITTURU RANI CHENNAMMA HOSTEL SIDDAPUR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "145",
+            "district": "Uttara Kannada",
+            "name": "ANJUMAN COLLEGE BHATKAL",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "146",
+            "district": "Uttara Kannada",
+            "name": "GOVERNMENT PRE METRIC GIRLS HOSTEL KARWAR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "147",
+            "district": "Uttara Kannada",
+            "name": "GOVERNMENT PRE METRIC BOYS HOSTEL KARWAR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "148",
+            "district": "Uttara Kannada",
+            "name": "DEVARAJ ARASU POST METRIC BOYS HOSTEL KARWAR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "149",
+            "district": "Bellary",
+            "name": "Siddharth Hotal",
+            "type": "Private"
+        },
+        {
+            "sno": "150",
+            "district": "Bellary",
+            "name": "Rook Regency",
+            "type": "Private"
+        },
+        {
+            "sno": "151",
+            "district": "Bellary",
+            "name": "Muraji Desai",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "152",
+            "district": "Bellary",
+            "name": "Vishnu Priya",
+            "type": "Private"
+        },
+        {
+            "sno": "153",
+            "district": "Bellary",
+            "name": "VIdya Priya Hotal",
+            "type": "Private"
+        },
+        {
+            "sno": "154",
+            "district": "Bellary",
+            "name": "Mayur Hotel Ballari",
+            "type": "Private"
+        },
+        {
+            "sno": "155",
+            "district": "Bagalkot",
+            "name": "Navachetana High School Aminagad",
+            "type": "Private"
+        },
+        {
+            "sno": "156",
+            "district": "Bagalkot",
+            "name": "Adarsha Vidyalaya Hunagund",
+            "type": "Private"
+        },
+        {
+            "sno": "157",
+            "district": "Bagalkot",
+            "name": "Post Metric Boys Residential School Hunagund",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "158",
+            "district": "Bagalkot",
+            "name": "Post Matric Girls Hostel BC Navanagar Bagalkot",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "159",
+            "district": "Bagalkot",
+            "name": "Ashadeep Samaja Abhiruddi Kendra Asangi",
+            "type": "Private"
+        },
+        {
+            "sno": "160",
+            "district": "Tumkur",
+            "name": "Govt Pre Metric Ladies Hostel Madhugiri",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "161",
+            "district": "Tumkur",
+            "name": "Boys Hostel Madhugiri",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "162",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Indi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "163",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Sindagi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "164",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Muddebihal",
+            "type": "Government TH"
+        },
+        {
+            "sno": "165",
+            "district": "Bijapur",
+            "name": "Taluka Hospital Basavana Bagewadi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "166",
+            "district": "Bijapur",
+            "name": "District Hospital Vijayapura",
+            "type": "Government DH"
+        },
+        {
+            "sno": "167",
+            "district": "Tumkur",
+            "name": "Murarji Hostel Kunigal",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "168",
+            "district": "Tumkur",
+            "name": "Government Hostel Pavagada",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "169",
+            "district": "Tumkur",
+            "name": "Govt Degree College Hostel Pavagada",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "170",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Ladies Hostel Pavagada",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "171",
+            "district": "Tumkur",
+            "name": "Govt Pre Metric Ladies Hostel Pavagada",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "172",
+            "district": "Tumkur",
+            "name": "Murarji Hostel Indragandhi Hostel Turuvekere",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "173",
+            "district": "Tumkur",
+            "name": "Kittur Rani Chanamma Vajpai Hostel Morarji Pavagada",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "174",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Ladies Hostel Kortagere",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "175",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Boys Hostel Kortagere",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "176",
+            "district": "Hassan",
+            "name": "Muraraji residential school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "177",
+            "district": "Tumkur",
+            "name": "Muraji Desi Residential School Koratagere",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "178",
+            "district": "Kalaburagi",
+            "name": "Govt Unani Hospital 50 beded",
+            "type": "Government DH"
+        },
+        {
+            "sno": "179",
+            "district": "Mysore",
+            "name": "Ekalvya Residential School",
+            "type": "Private"
+        },
+        {
+            "sno": "180",
+            "district": "Chamarajanagar",
+            "name": "Dr B R Ambedkar Bhavan Chamarajanagar",
+            "type": "Government DH"
+        },
+        {
+            "sno": "181",
+            "district": "Mysore",
+            "name": "Hotel Green Palace",
+            "type": "Private"
+        },
+        {
+            "sno": "182",
+            "district": "Mysore",
+            "name": "LICBasavanagudi Block nanjangud",
+            "type": "Private"
+        },
+        {
+            "sno": "183",
+            "district": "Tumkur",
+            "name": "GOVT LADIES HOSTEL TIPTUR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "184",
+            "district": "Mysore",
+            "name": "Nanjangud Plaza",
+            "type": "Private"
+        },
+        {
+            "sno": "185",
+            "district": "Tumkur",
+            "name": "BOYS HOSTEL TIPTUR",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "186",
+            "district": "Mysore",
+            "name": "Ranganatha Lodge",
+            "type": "Private"
+        },
+        {
+            "sno": "187",
+            "district": "Tumkur",
+            "name": "Govt Post Metric Boys Hostel C N Halli",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "188",
+            "district": "Mysore",
+            "name": "Prince Residency",
+            "type": "Private"
+        },
+        {
+            "sno": "189",
+            "district": "Bagalkot",
+            "name": "Pre Metric Residential Residential School Jalihal",
+            "type": "Private"
+        },
+        {
+            "sno": "190",
+            "district": "Bagalkot",
+            "name": "District Training Center Navanagar Bagalkot",
+            "type": "Private"
+        },
+        {
+            "sno": "191",
+            "district": "Tumkur",
+            "name": "Muraji Desi Residential School Chikkanayakanahalli",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "192",
+            "district": "Bagalkot",
+            "name": "District Resource Center Navanagar Bagalkote",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "193",
+            "district": "Yadgir",
+            "name": "Nisty Engineering College Shorapur Quarantine Center",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "194",
+            "district": "Yadgir",
+            "name": "Arkera K",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "195",
+            "district": "Mysore",
+            "name": "Indra Comforts",
+            "type": "Private"
+        },
+        {
+            "sno": "196",
+            "district": "Mysore",
+            "name": "The Viceroy Hotel",
+            "type": "Private"
+        },
+        {
+            "sno": "197",
+            "district": "Shimoga",
+            "name": "Social Welfare Hostel 02",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "198",
+            "district": "Shimoga",
+            "name": "Social Welfare Hostel 01",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "199",
+            "district": "Chikkaballapura",
+            "name": "Post Metric BCM Hostel Hanumanthapura",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "200",
+            "district": "Shimoga",
+            "name": "McCann Teaching District Hospital Shimogga",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "201",
+            "district": "Koppal",
+            "name": "Vignana Bhavan Koppal",
+            "type": "Government TH"
+        },
+        {
+            "sno": "202",
+            "district": "Chikkaballapura",
+            "name": "Gayathri Kalyana Mantapa Gudibande",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "203",
+            "district": "Chikkaballapura",
+            "name": "Atal Bihari Vajapai Residential Hostel Gowribidanur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "204",
+            "district": "Chikkaballapura",
+            "name": "BCM Minority Hospital Gowribidanur",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "205",
+            "district": "Chitradurga",
+            "name": "Sneha Comferts Lodge",
+            "type": "Government TH"
+        },
+        {
+            "sno": "206",
+            "district": "Chikkaballapura",
+            "name": "Govt Ayush Hospital Chintamani",
+            "type": "Government TH"
+        },
+        {
+            "sno": "207",
+            "district": "Chitradurga",
+            "name": "Social welfare department hostel CLK",
+            "type": "Government TH"
+        },
+        {
+            "sno": "208",
+            "district": "Chitradurga",
+            "name": "Amruta Lodge Rampura",
+            "type": "Government CHC"
+        },
+        {
+            "sno": "209",
+            "district": "Chikkaballapura",
+            "name": "VTU Centres For Advanced Studies Muddenalli",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "210",
+            "district": "Chitradurga",
+            "name": "Hotel Hangal Highway Molakalmuru",
+            "type": "Government TH"
+        },
+        {
+            "sno": "211",
+            "district": "Hassan",
+            "name": "government post metric boys hostel",
+            "type": "Government DH"
+        },
+        {
+            "sno": "212",
+            "district": "Chitradurga",
+            "name": "Morarji School Devarakotta Hiriyur",
+            "type": "Government PHC/UPHC"
+        },
+        {
+            "sno": "213",
+            "district": "Chikkaballapura",
+            "name": "CanaraBank Rural Employement Training Centre Chadalapura",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "214",
+            "district": "Chitradurga",
+            "name": "BCM Hostel Hosadurga",
+            "type": "Government TH"
+        },
+        {
+            "sno": "215",
+            "district": "Chitradurga",
+            "name": "SOCIAL WELFARE DEPARTMENT OFFICE JMIT Circle",
+            "type": "Government TH"
+        },
+        {
+            "sno": "216",
+            "district": "Ramanagara",
+            "name": "Kanakapura Taluk Morarji desai residential school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "217",
+            "district": "Chitradurga",
+            "name": "SOCIAL WELFARE DEPARTMENT OFFICE Gandhi Nagara",
+            "type": "Government TH"
+        },
+        {
+            "sno": "218",
+            "district": "Ramanagara",
+            "name": "Magadi Taluk Kitturu rani chenanna residential school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "219",
+            "district": "Chikkaballapura",
+            "name": "Govt First Grade College Auditorium Bagepalli",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "220",
+            "district": "Chikmagalur",
+            "name": "KANYAKUMARI LODGE",
+            "type": "Private"
+        },
+        {
+            "sno": "221",
+            "district": "Hassan",
+            "name": "boys hostel Social welfare",
+            "type": "Government TH"
+        },
+        {
+            "sno": "222",
+            "district": "Chikkaballapura",
+            "name": "Govt Metric PUC Boys Hostel Nekkundipet Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "223",
+            "district": "Koppal",
+            "name": "Govt Engineering College Gangavathi",
+            "type": "Government TH"
+        },
+        {
+            "sno": "224",
+            "district": "Chikmagalur",
+            "name": "SHARADA COMFORTS",
+            "type": "Private"
+        },
+        {
+            "sno": "225",
+            "district": "Ramanagara",
+            "name": "Channapatna Taluk Morarji desai Residential school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "226",
+            "district": "Hassan",
+            "name": "minor community muraji desai school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "227",
+            "district": "Ramanagara",
+            "name": "Ramanagara Taluk minority post metric girls hostel",
+            "type": "Government TH"
+        },
+        {
+            "sno": "228",
+            "district": "Chikkaballapura",
+            "name": "Govt Metric Degree Boys Hostel Chintamani",
+            "type": "Other Government Buildings"
+        },
+        {
+            "sno": "229",
+            "district": "Hassan",
+            "name": "Kittur rani channamma residential school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "230",
+            "district": "Hassan",
+            "name": "Murarji desai rsidential school",
+            "type": "Government TH"
+        },
+        {
+            "sno": "231",
+            "district": "Chikmagalur",
+            "name": "ANNAPOORNA LODGE",
+            "type": "Private"
+        },
+        {
+            "sno": "232",
+            "district": "Chikmagalur",
+            "name": "APOORVA COMFORTS",
+            "type": "Private"
+        },
+        {
+            "sno": "233",
+            "district": "Chikmagalur",
+            "name": "MAHARAJA COMFORTS TARIKERE",
+            "type": "Private"
+        },
+        {
+            "sno": "234",
+            "district": "Hassan",
+            "name": "G H Alur",
+            "type": "Government TH"
+        },
+        {
+            "sno": "235",
+            "district": "Udupi",
+            "name": "Bhuvanendra Residential School",
+            "type": "Private"
+        },
+        {
+            "sno": "236",
+            "district": "Chikmagalur",
+            "name": "ATHITI HOTEL",
+            "type": "Private"
+        },
+        {
+            "sno": "237",
+            "district": "Chikmagalur",
+            "name": "VISHWAS RESIDENCY",
+            "type": "Private"
+        },
+        {
+            "sno": "238",
+            "district": "Udupi",
+            "name": "Madhava Pai Hostel",
+            "type": "Private"
+        },
+        {
+            "sno": "239",
+            "district": "Udupi",
+            "name": "Post Metric Girls Hostel",
+            "type": "Private"
+        },
+        {
+            "sno": "240",
+            "district": "Udupi",
+            "name": "Hariprasad Hotel",
+            "type": "Private"
+        },
+        {
+            "sno": "241",
+            "district": "Udupi",
+            "name": "Devaraja Arasu Hostel",
+            "type": "Private"
+        },
+        {
+            "sno": "242",
+            "district": "Udupi",
+            "name": "Social welfare Hostel",
+            "type": "Private"
+        },
+        {
+            "sno": "243",
+            "district": "Udupi",
+            "name": "Century Executive Hotel",
+            "type": "Private"
+        },
+        {
+            "sno": "244",
+            "district": "Udupi",
+            "name": "Vijay Grand Hotel",
+            "type": "Private"
+        },
+        {
+            "sno": "245",
+            "district": "Udupi",
+            "name": "New Library Building",
+            "type": "Private"
+        },
+        {
+            "sno": "246",
+            "district": "Hassan",
+            "name": "Gov Post metric boys hostel",
+            "type": "Government TH"
+        }
+    ],
+    "ic": [
+        {
+            "sno": "1",
+            "district": "Bagalkote",
+            "name": "Kerudi Multi Speciality Hospital Bagalkote",
+            "type": "Private"
+        },
+        {
+            "sno": "2",
+            "district": "Bagalkote",
+            "name": "SNMC Bagalkote",
+            "type": "Private"
+        },
+        {
+            "sno": "3",
+            "district": "Bagalkote",
+            "name": "TH Jamakhandi",
+            "type": "Public"
+        },
+        {
+            "sno": "4",
+            "district": "Bagalkote",
+            "name": "TH Bilagi",
+            "type": "Public"
+        },
+        {
+            "sno": "5",
+            "district": "Bagalkote",
+            "name": "TH Hunagunda",
+            "type": "Public"
+        },
+        {
+            "sno": "6",
+            "district": "Bagalkote",
+            "name": "TH Badami",
+            "type": "Public"
+        },
+        {
+            "sno": "7",
+            "district": "Bagalkote",
+            "name": "TH Mudhol",
+            "type": "Public"
+        },
+        {
+            "sno": "8",
+            "district": "Bagalkote",
+            "name": "GH Ilakal",
+            "type": "Public"
+        },
+        {
+            "sno": "9",
+            "district": "Ballari",
+            "name": "VIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "10",
+            "district": "Ballari",
+            "name": "TH Hospet",
+            "type": "Public"
+        },
+        {
+            "sno": "11",
+            "district": "Ballari",
+            "name": "TH H B halli",
+            "type": "Public"
+        },
+        {
+            "sno": "12",
+            "district": "Ballari",
+            "name": "Dental College",
+            "type": "Public"
+        },
+        {
+            "sno": "13",
+            "district": "Ballari",
+            "name": "TB Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "14",
+            "district": "Ballari",
+            "name": "Old Directorate Office",
+            "type": "Public"
+        },
+        {
+            "sno": "15",
+            "district": "Ballari",
+            "name": "TH Harapanahalli",
+            "type": "Public"
+        },
+        {
+            "sno": "16",
+            "district": "Ballari",
+            "name": "TH Sandur",
+            "type": "Public"
+        },
+        {
+            "sno": "17",
+            "district": "Ballari",
+            "name": "TH Kudligi",
+            "type": "Public"
+        },
+        {
+            "sno": "18",
+            "district": "Ballari",
+            "name": "TH Siruguppa",
+            "type": "Public"
+        },
+        {
+            "sno": "19",
+            "district": "Ballari",
+            "name": "TH Hadagali",
+            "type": "Public"
+        },
+        {
+            "sno": "20",
+            "district": "Ballari",
+            "name": "Jindal Hospital"
+        },
+        {
+            "sno": "21",
+            "district": "Bangalore",
+            "name": "ESIC Rajajinagara",
+            "type": "Public"
+        },
+        {
+            "sno": "22",
+            "district": "Bangalore",
+            "name": "SDS TRC and Rajiv Gnadhi Institute of Chest Diseases",
+            "type": "Public"
+        },
+        {
+            "sno": "23",
+            "district": "Bangalore",
+            "name": "Indira Gandhi institute of Child Health",
+            "type": "Public"
+        },
+        {
+            "sno": "24",
+            "district": "Bangalore",
+            "name": "General Hospital (Devanahalli)",
+            "type": "Public"
+        },
+        {
+            "sno": "25",
+            "district": "Bangalore",
+            "name": "Jayanagara GH",
+            "type": "Public"
+        },
+        {
+            "sno": "26",
+            "district": "Bangalore",
+            "name": "KC GH",
+            "type": "Public"
+        },
+        {
+            "sno": "27",
+            "district": "Bangalore",
+            "name": "Hoskote TH",
+            "type": "Public"
+        },
+        {
+            "sno": "28",
+            "district": "Bangalore",
+            "name": "ED Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "29",
+            "district": "Bangalore",
+            "name": "ESIC Hospital,Peenya",
+            "type": "Public"
+        },
+        {
+            "sno": "30",
+            "district": "Bangalore",
+            "name": "Doddaballapura TH",
+            "type": "Public"
+        },
+        {
+            "sno": "31",
+            "district": "Bangalore",
+            "name": "Sir.C.V.Raman GH",
+            "type": "Public"
+        },
+        {
+            "sno": "32",
+            "district": "Bangalore",
+            "name": "General Hospital (Nelamanagala)",
+            "type": "Public"
+        },
+        {
+            "sno": "33",
+            "district": "Bangalore",
+            "name": "YelahankaTaluka Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "34",
+            "district": "Bangalore",
+            "name": "GH Anekal",
+            "type": "Public"
+        },
+        {
+            "sno": "35",
+            "district": "Bangalore",
+            "name": "K.R.PuramTaluka Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "36",
+            "district": "Bangalore",
+            "name": "St. Johns Institute of Medical Sciences",
+            "type": "Private"
+        },
+        {
+            "sno": "37",
+            "district": "Bangalore",
+            "name": "Trustwell Hospitals Pvt Ltd.",
+            "type": "Private"
+        },
+        {
+            "sno": "38",
+            "district": "Bangalore",
+            "name": "Aster CMI",
+            "type": "Private"
+        },
+        {
+            "sno": "39",
+            "district": "Bangalore",
+            "name": "Columbia Asia Hospitals",
+            "type": "Private"
+        },
+        {
+            "sno": "40",
+            "district": "Bangalore",
+            "name": "Fortis Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "41",
+            "district": "Bangalore",
+            "name": "Fortis Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "42",
+            "district": "Bangalore",
+            "name": "M.S. Ramaiah Medical college",
+            "type": "Private"
+        },
+        {
+            "sno": "43",
+            "district": "Bangalore",
+            "name": "Narayana Hrudayalaya Private Limited.",
+            "type": "Private"
+        },
+        {
+            "sno": "44",
+            "district": "Bangalore",
+            "name": "Shifa Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "45",
+            "district": "Bangalore",
+            "name": "Sri Sai Ram Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "46",
+            "district": "Bangalore",
+            "name": "People Tree Hospitals A Unit of TMI Health Care Pvt Ltd.",
+            "type": "Private"
+        },
+        {
+            "sno": "47",
+            "district": "Bangalore",
+            "name": "Mallige Medical Pvt Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "48",
+            "district": "Bangalore",
+            "name": "Bhagvan Mahaveer Jain Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "49",
+            "district": "Bangalore",
+            "name": "Baptist Hospital, Hebbal",
+            "type": "Private"
+        },
+        {
+            "sno": "50",
+            "district": "Bangalore",
+            "name": "EHAA Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "51",
+            "district": "Bangalore",
+            "name": "Suguna Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "52",
+            "district": "Bangalore",
+            "name": "P M Santosh Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "53",
+            "district": "Bangalore",
+            "name": "Apollo Hospital,",
+            "type": "Private"
+        },
+        {
+            "sno": "54",
+            "district": "Bangalore",
+            "name": "Ambedkar Medical college.",
+            "type": "Private"
+        },
+        {
+            "sno": "55",
+            "district": "Bangalore",
+            "name": "Vydehi Institute of Medical Sciences & Research Centre.",
+            "type": "Private"
+        },
+        {
+            "sno": "56",
+            "district": "Bangalore",
+            "name": "BGS Global Hospital.",
+            "type": "Private"
+        },
+        {
+            "sno": "57",
+            "district": "Bangalore",
+            "name": "SSNMC Super Specialty Hospital,",
+            "type": "Private"
+        },
+        {
+            "sno": "58",
+            "district": "Bangalore",
+            "name": "Oxford Medical College",
+            "type": "Private"
+        },
+        {
+            "sno": "59",
+            "district": "Bangalore",
+            "name": "Vikram Hospitals",
+            "type": "Private"
+        },
+        {
+            "sno": "60",
+            "district": "Belagavi",
+            "name": "TH Chikkodi",
+            "type": "Public"
+        },
+        {
+            "sno": "61",
+            "district": "Belagavi",
+            "name": "TH Gokak",
+            "type": "Public"
+        },
+        {
+            "sno": "62",
+            "district": "Belagavi",
+            "name": "TH Athani",
+            "type": "Public"
+        },
+        {
+            "sno": "63",
+            "district": "Belagavi",
+            "name": "TH Suadatti",
+            "type": "Public"
+        },
+        {
+            "sno": "64",
+            "district": "Belagavi",
+            "name": "TH Bailhongal",
+            "type": "Public"
+        },
+        {
+            "sno": "65",
+            "district": "Belagavi",
+            "name": "TH Ramdurg",
+            "type": "Public"
+        },
+        {
+            "sno": "66",
+            "district": "Belagavi",
+            "name": "TH Raibagh",
+            "type": "Public"
+        },
+        {
+            "sno": "67",
+            "district": "Belagavi",
+            "name": "TH Hukkeri",
+            "type": "Public"
+        },
+        {
+            "sno": "68",
+            "district": "Belagavi",
+            "name": "TH Khanapur",
+            "type": "Public"
+        },
+        {
+            "sno": "69",
+            "district": "Belagavi",
+            "name": "Vijaya Hospital Belgaum",
+            "type": "Private"
+        },
+        {
+            "sno": "70",
+            "district": "Belagavi",
+            "name": "Shree Hospital Belgaum",
+            "type": "Private"
+        },
+        {
+            "sno": "71",
+            "district": "Belagavi",
+            "name": "KLE Hospital Belgaum",
+            "type": "Private"
+        },
+        {
+            "sno": "72",
+            "district": "Bidar",
+            "name": "TGH Bhalki",
+            "type": "Public"
+        },
+        {
+            "sno": "73",
+            "district": "Bidar",
+            "name": "TGH Humnabad",
+            "type": "Public"
+        },
+        {
+            "sno": "74",
+            "district": "Bidar",
+            "name": "TGH Basavakalyana",
+            "type": "Public"
+        },
+        {
+            "sno": "75",
+            "district": "Bidar",
+            "name": "TGH Aurad",
+            "type": "Public"
+        },
+        {
+            "sno": "76",
+            "district": "Chamarajnagar",
+            "name": "JSS Hosital Chamarajanagr",
+            "type": "Private"
+        },
+        {
+            "sno": "77",
+            "district": "Chamarajnagara",
+            "name": "Sub Division Hospial Kollegala",
+            "type": "Public"
+        },
+        {
+            "sno": "78",
+            "district": "Chamarajnagara",
+            "name": "GH Yalandoru",
+            "type": "Public"
+        },
+        {
+            "sno": "79",
+            "district": "Chamarajnagara",
+            "name": "GH Gundulpet",
+            "type": "Public"
+        },
+        {
+            "sno": "80",
+            "district": "Chamarajnagara",
+            "name": "Ambedkar Bhavana",
+            "type": "nan"
+        },
+        {
+            "sno": "81",
+            "district": "Chikkaballapur",
+            "name": "TH Bagepalli",
+            "type": "nan"
+        },
+        {
+            "sno": "82",
+            "district": "Chikkaballapur",
+            "name": "TH Gudibande",
+            "type": "nan"
+        },
+        {
+            "sno": "83",
+            "district": "Chikkaballapur",
+            "name": "TH Chinthamani",
+            "type": "nan"
+        },
+        {
+            "sno": "84",
+            "district": "Chikkaballapur",
+            "name": "TH Shidlaghatta",
+            "type": "nan"
+        },
+        {
+            "sno": "85",
+            "district": "Chikkaballapur",
+            "name": "TH Gouribidanuru (86/100)",
+            "type": "nan"
+        },
+        {
+            "sno": "86",
+            "district": "Chikkamagalur",
+            "name": "GH Koppa",
+            "type": "Public"
+        },
+        {
+            "sno": "87",
+            "district": "Chikkamagalur",
+            "name": "TH N.R.Pura",
+            "type": "Public"
+        },
+        {
+            "sno": "88",
+            "district": "Chikkamagalur",
+            "name": "GH Kadur",
+            "type": "Public"
+        },
+        {
+            "sno": "89",
+            "district": "Chikkamagalur",
+            "name": "MGM GH Mudigere",
+            "type": "Public"
+        },
+        {
+            "sno": "90",
+            "district": "Chikkamagalur",
+            "name": "GH Tarikere",
+            "type": "Public"
+        },
+        {
+            "sno": "91",
+            "district": "Chikkamagalur",
+            "name": "GH Sringeri",
+            "type": "Public"
+        },
+        {
+            "sno": "92",
+            "district": "Chikkamagalur",
+            "name": "KSOU Building",
+            "type": "nan"
+        },
+        {
+            "sno": "93",
+            "district": "Chitradurga",
+            "name": "GH Challakere",
+            "type": "Public facility"
+        },
+        {
+            "sno": "94",
+            "district": "Chitradurga",
+            "name": "GH Holalkere",
+            "type": "Public facility"
+        },
+        {
+            "sno": "95",
+            "district": "Chitradurga",
+            "name": "GH Hosadurga",
+            "type": "Public facility"
+        },
+        {
+            "sno": "96",
+            "district": "Chitradurga",
+            "name": "GH Molakalmuru",
+            "type": "Public facility"
+        },
+        {
+            "sno": "97",
+            "district": "Chitradurga",
+            "name": "GH Hiriyuru",
+            "type": "Public facility"
+        },
+        {
+            "sno": "98",
+            "district": "Chitradurga",
+            "name": "Basaveshwara Hospital",
+            "type": "Pravite Facility"
+        },
+        {
+            "sno": "99",
+            "district": "Dakshin Kannada",
+            "name": "TH Puttur",
+            "type": "Public"
+        },
+        {
+            "sno": "100",
+            "district": "Dakshin Kannada",
+            "name": "TH Belthangady",
+            "type": "Public"
+        },
+        {
+            "sno": "101",
+            "district": "Dakshin Kannada",
+            "name": "TH Sullia",
+            "type": "Public"
+        },
+        {
+            "sno": "102",
+            "district": "Dakshin Kannada",
+            "name": "TH Bantwal",
+            "type": "Public"
+        },
+        {
+            "sno": "103",
+            "district": "Dakshin Kannada",
+            "name": "ESI",
+            "type": "Public"
+        },
+        {
+            "sno": "104",
+            "district": "Dakshina Kannada",
+            "name": "KMC Jyothi",
+            "type": "Private"
+        },
+        {
+            "sno": "105",
+            "district": "Dakshina Kannada",
+            "name": "Kasturba Medical College and Hospital, Attavar",
+            "type": "Private"
+        },
+        {
+            "sno": "106",
+            "district": "Dakshina Kannada",
+            "name": "Kanachur Hospital & Research Center, Natekal, Mangalore",
+            "type": "Private"
+        },
+        {
+            "sno": "107",
+            "district": "Dakshina Kannada",
+            "name": "KVG Medical College& Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "108",
+            "district": "Dakshina Kannada",
+            "name": "Father Muller Medical College, Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "109",
+            "district": "Dakshina Kannada",
+            "name": "Yenapoya",
+            "type": "Private"
+        },
+        {
+            "sno": "110",
+            "district": "Dakshina Kannada",
+            "name": "AJ",
+            "type": "Private"
+        },
+        {
+            "sno": "111",
+            "district": "Dakshina Kannada",
+            "name": "KS HEGDE",
+            "type": "Private"
+        },
+        {
+            "sno": "112",
+            "district": "Davangere",
+            "name": "GH Honnali",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "113",
+            "district": "Davangere",
+            "name": "GH Jagaluru",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "114",
+            "district": "Davangere",
+            "name": "GH Harihara",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "115",
+            "district": "Davangere",
+            "name": "GH Channagiri",
+            "type": "Public"
+        },
+        {
+            "sno": "116",
+            "district": "Davangere",
+            "name": "E S I Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "117",
+            "district": "Davangere",
+            "name": "S S Institute of Medical Sciences & Research Centre",
+            "type": "Private"
+        },
+        {
+            "sno": "118",
+            "district": "Davangere",
+            "name": "SHUBHODAYA NURSING HOME",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "119",
+            "district": "Davangere",
+            "name": "SOUKHYADA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "120",
+            "district": "Davangere",
+            "name": "AARAIKE SUPER SPECIALITY HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "121",
+            "district": "Davangere",
+            "name": "CITY CENTRAL HOSPITAL PVT LTD",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "122",
+            "district": "Davangere",
+            "name": "Bapuji Hospital",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "123",
+            "district": "Davangere",
+            "name": "Bapuji Child Health Institute & Research centre, JJM Medical College, Davangere",
+            "type": "Private"
+        },
+        {
+            "sno": "124",
+            "district": "Dharwad",
+            "name": "DH",
+            "type": "Public"
+        },
+        {
+            "sno": "125",
+            "district": "Dharwad",
+            "name": "Central Railway Hospital Hubli",
+            "type": "Public"
+        },
+        {
+            "sno": "126",
+            "district": "Dharwad",
+            "name": "TH Kalaghatagi",
+            "type": "Public"
+        },
+        {
+            "sno": "127",
+            "district": "Dharwad",
+            "name": "TH Kundagol",
+            "type": "Public"
+        },
+        {
+            "sno": "128",
+            "district": "Dharwad",
+            "name": "TH Navalagund",
+            "type": "Public"
+        },
+        {
+            "sno": "129",
+            "district": "Dharwad",
+            "name": "SDM College of Medical Sciences & Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "130",
+            "district": "Dharwad",
+            "name": "Tavarageri Hospital Dharwad",
+            "type": "Private"
+        },
+        {
+            "sno": "131",
+            "district": "Dharwad",
+            "name": "Tatwadarsha Hospital Hubballi",
+            "type": "Private"
+        },
+        {
+            "sno": "132",
+            "district": "Dharwad",
+            "name": "Suchirayu Hospital Hubballi",
+            "type": "Private"
+        },
+        {
+            "sno": "133",
+            "district": "Gadag",
+            "name": "TLH Shirhatti",
+            "type": "Public"
+        },
+        {
+            "sno": "134",
+            "district": "Gadag",
+            "name": "TLH Naragund",
+            "type": "Public"
+        },
+        {
+            "sno": "135",
+            "district": "Gadag",
+            "name": "TLH Ron",
+            "type": "Public"
+        },
+        {
+            "sno": "136",
+            "district": "Gadag",
+            "name": "TLH Mundargi",
+            "type": "Public"
+        },
+        {
+            "sno": "137",
+            "district": "Gadag",
+            "name": "Vatsallya Hopital",
+            "type": "Private"
+        },
+        {
+            "sno": "138",
+            "district": "Gadag",
+            "name": "LYDM Sparsh Multispeciality Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "139",
+            "district": "Gadag",
+            "name": "Ashraya Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "140",
+            "district": "Gadag",
+            "name": "DR N B PATIL HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "141",
+            "district": "Gadag",
+            "name": "Chirayu Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "142",
+            "district": "Gadag",
+            "name": "Basel Mission CSI Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "143",
+            "district": "Hassan",
+            "name": "TH Sakaleshpur",
+            "type": "Public"
+        },
+        {
+            "sno": "144",
+            "district": "Hassan",
+            "name": "TH Holenarasipur",
+            "type": "Public"
+        },
+        {
+            "sno": "145",
+            "district": "Hassan",
+            "name": "TH Beluru",
+            "type": "Public"
+        },
+        {
+            "sno": "146",
+            "district": "Hassan",
+            "name": "TH Alur",
+            "type": "Public"
+        },
+        {
+            "sno": "147",
+            "district": "Hassan",
+            "name": "TH Channarayapattana",
+            "type": "Public"
+        },
+        {
+            "sno": "148",
+            "district": "Hassan",
+            "name": "TH Arakalagudu",
+            "type": "Public"
+        },
+        {
+            "sno": "149",
+            "district": "Hassan",
+            "name": "TH Arasikere",
+            "type": "Public"
+        },
+        {
+            "sno": "150",
+            "district": "Haveri",
+            "name": "Ranebennur TH",
+            "type": "Public"
+        },
+        {
+            "sno": "151",
+            "district": "Haveri",
+            "name": "Byadagi TH",
+            "type": "Public"
+        },
+        {
+            "sno": "152",
+            "district": "Haveri",
+            "name": "Hirekerur TH",
+            "type": "Public"
+        },
+        {
+            "sno": "153",
+            "district": "Haveri",
+            "name": "Shiggaon TH",
+            "type": "Public"
+        },
+        {
+            "sno": "154",
+            "district": "Haveri",
+            "name": "Hangal TH",
+            "type": "Public"
+        },
+        {
+            "sno": "155",
+            "district": "Haveri",
+            "name": "Savannur TH",
+            "type": "Public"
+        },
+        {
+            "sno": "156",
+            "district": "Haveri",
+            "name": "Shri Channabasappa Magavi Memorial Hospital Haveri",
+            "type": "Private"
+        },
+        {
+            "sno": "157",
+            "district": "Kalaburagi",
+            "name": "GIMS Hospital Klaburagi",
+            "type": "Public"
+        },
+        {
+            "sno": "158",
+            "district": "Kalaburagi",
+            "name": "Afzlapur GH",
+            "type": "Public"
+        },
+        {
+            "sno": "159",
+            "district": "Kalaburagi",
+            "name": "Aland GH",
+            "type": "Public"
+        },
+        {
+            "sno": "160",
+            "district": "Kalaburagi",
+            "name": "Chittapur GH",
+            "type": "Public"
+        },
+        {
+            "sno": "161",
+            "district": "Kalaburagi",
+            "name": "Chincholi GH",
+            "type": "Public"
+        },
+        {
+            "sno": "162",
+            "district": "Kalaburagi",
+            "name": "Jewaragi GH",
+            "type": "Public"
+        },
+        {
+            "sno": "163",
+            "district": "Kalaburagi",
+            "name": "TH SEDAM",
+            "type": "Public"
+        },
+        {
+            "sno": "164",
+            "district": "Kodagu",
+            "name": "Taluk GH, Virajpet",
+            "type": "Public"
+        },
+        {
+            "sno": "165",
+            "district": "Kodagu",
+            "name": "GH SOMWARPET",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "166",
+            "district": "Kodagu",
+            "name": "Prime Hospital, Kushalnagar",
+            "type": "Private"
+        },
+        {
+            "sno": "167",
+            "district": "Kodagu",
+            "name": "Ambika Nursing Home, Virajpete",
+            "type": "Private"
+        },
+        {
+            "sno": "168",
+            "district": "Kodagu",
+            "name": "Ashwini hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "169",
+            "district": "Kodagu",
+            "name": "Sri lakshmi Raman health care, Kushalnagar",
+            "type": "Private"
+        },
+        {
+            "sno": "170",
+            "district": "Kodagu",
+            "name": "DR.M.D. SACHIDANADA MURTHY MEMORIAL TRUST KAVERI HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "171",
+            "district": "Kodagu",
+            "name": "SRI RAMAKRISHNA SEVASHRAMA HOSPITAL, PONNAMPET",
+            "type": "Private"
+        },
+        {
+            "sno": "172",
+            "district": "Kodagu",
+            "name": "Life line hospital, Gonikoppa",
+            "type": "Private"
+        },
+        {
+            "sno": "173",
+            "district": "Kodagu",
+            "name": "Athreya Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "174",
+            "district": "Kodagu",
+            "name": "CREDO MEDIACAL CENTER, GONIKOPPA",
+            "type": "Private"
+        },
+        {
+            "sno": "175",
+            "district": "Kodagu",
+            "name": "R.I.H.P. Hospital, Ammathi",
+            "type": "Private"
+        },
+        {
+            "sno": "176",
+            "district": "Kodagu",
+            "name": "Virajpet Nursing Home, Virajpete",
+            "type": "Private"
+        },
+        {
+            "sno": "177",
+            "district": "Kodagu",
+            "name": "PNM Hospital, Gonikoppal",
+            "type": "Private"
+        },
+        {
+            "sno": "178",
+            "district": "Kodagu",
+            "name": "LOPAMUDRA MEDICAL CENTRE",
+            "type": "Private"
+        },
+        {
+            "sno": "179",
+            "district": "Kodagu",
+            "name": "Sacred Heart Hospital, Siddapura",
+            "type": "Private"
+        },
+        {
+            "sno": "180",
+            "district": "Kodagu",
+            "name": "Vivus Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "181",
+            "district": "Kodagu",
+            "name": "Sri Rajarajeshwari Hospital, Madikeri",
+            "type": "Private"
+        },
+        {
+            "sno": "182",
+            "district": "Kolar",
+            "name": "GH, Malur",
+            "type": "Public"
+        },
+        {
+            "sno": "183",
+            "district": "Kolar",
+            "name": "GH, Mulbagal",
+            "type": "Public"
+        },
+        {
+            "sno": "184",
+            "district": "Kolar",
+            "name": "GH, Bangarpet",
+            "type": "Public"
+        },
+        {
+            "sno": "185",
+            "district": "Kolar",
+            "name": "GH, Srinivaspur",
+            "type": "Public"
+        },
+        {
+            "sno": "186",
+            "district": "Kolar",
+            "name": "ED Hospital, KGF",
+            "type": "Public"
+        },
+        {
+            "sno": "187",
+            "district": "Kolar",
+            "name": "Sambram Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "188",
+            "district": "Kolar",
+            "name": "ETCM Hospital, Kolar",
+            "type": "Private"
+        },
+        {
+            "sno": "189",
+            "district": "Kolar",
+            "name": "Sham Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "190",
+            "district": "Kolar",
+            "name": "R.L Jalappa Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "191",
+            "district": "Koppal",
+            "name": "SDH Gangavathi (30/130)",
+            "type": "Public"
+        },
+        {
+            "sno": "192",
+            "district": "Koppal",
+            "name": "GH Yalburga",
+            "type": "Public"
+        },
+        {
+            "sno": "193",
+            "district": "Koppal",
+            "name": "GH Kustagi",
+            "type": "Public"
+        },
+        {
+            "sno": "194",
+            "district": "Mandya",
+            "name": "TH Maddur",
+            "type": "Public"
+        },
+        {
+            "sno": "195",
+            "district": "Mandya",
+            "name": "TH K.R PET",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "196",
+            "district": "Mandya",
+            "name": "TH S.R Patna",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "197",
+            "district": "Mandya",
+            "name": "TH Pandavapura",
+            "type": "Public"
+        },
+        {
+            "sno": "198",
+            "district": "Mandya",
+            "name": "TH Malavalli",
+            "type": "Public"
+        },
+        {
+            "sno": "199",
+            "district": "Mandya",
+            "name": "TH Nagamangala",
+            "type": "Public"
+        },
+        {
+            "sno": "200",
+            "district": "Mysore",
+            "name": "KR Hospital",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "201",
+            "district": "Mysore",
+            "name": "GH T Narasipura",
+            "type": "Public"
+        },
+        {
+            "sno": "202",
+            "district": "Mysore",
+            "name": "GH Periyapattana",
+            "type": "Public"
+        },
+        {
+            "sno": "203",
+            "district": "Mysore",
+            "name": "GH Nanjanagudu",
+            "type": "Public"
+        },
+        {
+            "sno": "204",
+            "district": "Mysore",
+            "name": "Railways Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "205",
+            "district": "Mysore",
+            "name": "GH Hunsuru",
+            "type": "Public"
+        },
+        {
+            "sno": "206",
+            "district": "Mysore",
+            "name": "GH KR Nagara",
+            "type": "Public"
+        },
+        {
+            "sno": "207",
+            "district": "Mysore",
+            "name": "GH HD Kote",
+            "type": "Public"
+        },
+        {
+            "sno": "208",
+            "district": "Mysuru",
+            "name": "Clear Medi Radiant Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "209",
+            "district": "Mysuru",
+            "name": "JSS Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "210",
+            "district": "Mysuru",
+            "name": "CSI Holdworth Memorial Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "211",
+            "district": "Mysuru",
+            "name": "Cauvery Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "212",
+            "district": "Mysuru",
+            "name": "Columbia Asia Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "213",
+            "district": "Mysuru",
+            "name": "Sigma Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "214",
+            "district": "Mysuru",
+            "name": "Nrayana Hrudayalaya",
+            "type": "Private"
+        },
+        {
+            "sno": "215",
+            "district": "Raichur",
+            "name": "RIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "216",
+            "district": "Raichur",
+            "name": "TH Sindhanuru",
+            "type": "Public"
+        },
+        {
+            "sno": "217",
+            "district": "Raichur",
+            "name": "TH Lingasanuru",
+            "type": "Public"
+        },
+        {
+            "sno": "218",
+            "district": "Raichur",
+            "name": "TH Devadurga",
+            "type": "Public"
+        },
+        {
+            "sno": "219",
+            "district": "Raichur",
+            "name": "TH Manvi",
+            "type": "Public"
+        },
+        {
+            "sno": "220",
+            "district": "Raichur",
+            "name": "Navodaya Medical Hospital",
+            "type": "Private Medical Hospital"
+        },
+        {
+            "sno": "221",
+            "district": "Ramanagar",
+            "name": "DH RAMANAGARA",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "222",
+            "district": "Ramanagar",
+            "name": "GH Channapattana",
+            "type": "Public"
+        },
+        {
+            "sno": "223",
+            "district": "Ramanagar",
+            "name": "GH Magadi",
+            "type": "Public"
+        },
+        {
+            "sno": "224",
+            "district": "Ramanagar",
+            "name": "GH Kanakapura",
+            "type": "Public"
+        },
+        {
+            "sno": "225",
+            "district": "Ramanagar",
+            "name": "Dr. Chandramma Dayanand Sagar Institute of Medical ScIENCE,",
+            "type": "Private"
+        },
+        {
+            "sno": "226",
+            "district": "Shimoga",
+            "name": "SARJI HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "227",
+            "district": "Shimoga",
+            "name": "NIRMALA HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "228",
+            "district": "Shimoga",
+            "name": "SHREE VIGHNESHWARA HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "229",
+            "district": "Shimoga",
+            "name": "ANURADHA NURSING HOME",
+            "type": "Private"
+        },
+        {
+            "sno": "230",
+            "district": "Shimoga",
+            "name": "DUGRA HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "231",
+            "district": "Shimoga",
+            "name": "SUBBAIAH MEDICAL COLLEGE HOSPITAL & RESEARCH CENTER,",
+            "type": "Private"
+        },
+        {
+            "sno": "232",
+            "district": "Shimoga",
+            "name": "METRO UNITED HEALTH CARE LLP.",
+            "type": "Private"
+        },
+        {
+            "sno": "233",
+            "district": "Shimoga",
+            "name": "MAAX SUPER SPECIALTY HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "234",
+            "district": "Shimoga",
+            "name": "NANJAPPA LIFE CARE",
+            "type": "Private"
+        },
+        {
+            "sno": "235",
+            "district": "Shimoga",
+            "name": "NANJAPPA HOSPITAL",
+            "type": "Private"
+        },
+        {
+            "sno": "236",
+            "district": "Shimoga",
+            "name": "SAHYADRI NARAYANA HRUDAYALAYA",
+            "type": "Private"
+        },
+        {
+            "sno": "237",
+            "district": "Shimogga",
+            "name": "TH,SHIKARIPURA",
+            "type": "Public (Taluk Level Hospital)"
+        },
+        {
+            "sno": "238",
+            "district": "Shimogga",
+            "name": "TH, SAGARA",
+            "type": "Public"
+        },
+        {
+            "sno": "239",
+            "district": "Shimogga",
+            "name": "TH Thirthahalli",
+            "type": "Public"
+        },
+        {
+            "sno": "240",
+            "district": "Shimogga",
+            "name": "TH,Bhadravathi",
+            "type": "Public"
+        },
+        {
+            "sno": "241",
+            "district": "Shimogga",
+            "name": "G H HOSANAGARA",
+            "type": "Public"
+        },
+        {
+            "sno": "242",
+            "district": "Shimogga",
+            "name": "G H Soraba",
+            "type": "Public"
+        },
+        {
+            "sno": "243",
+            "district": "Tumkur",
+            "name": "GH Kunigal",
+            "type": "Public"
+        },
+        {
+            "sno": "244",
+            "district": "Tumkur",
+            "name": "GH Sira",
+            "type": "Public"
+        },
+        {
+            "sno": "245",
+            "district": "Tumkur",
+            "name": "GH Tiptur",
+            "type": "Public"
+        },
+        {
+            "sno": "246",
+            "district": "Tumkur",
+            "name": "GH Gubbi",
+            "type": "Public"
+        },
+        {
+            "sno": "247",
+            "district": "Tumkur",
+            "name": "GH Turuvekere",
+            "type": "Public"
+        },
+        {
+            "sno": "248",
+            "district": "Tumkur",
+            "name": "GH Kortagere",
+            "type": "Public"
+        },
+        {
+            "sno": "249",
+            "district": "Tumkur",
+            "name": "GH Pavagada",
+            "type": "Public"
+        },
+        {
+            "sno": "250",
+            "district": "Tumkur",
+            "name": "GH Madhugiri",
+            "type": "Public"
+        },
+        {
+            "sno": "251",
+            "district": "Tumkur",
+            "name": "GH C N Halli",
+            "type": "Public"
+        },
+        {
+            "sno": "252",
+            "district": "Tumkur",
+            "name": "SIDDAGANGA HOSPITAL PVT LIMITED TUMKUR",
+            "type": "Private"
+        },
+        {
+            "sno": "253",
+            "district": "Tumkur",
+            "name": "Pavana Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "254",
+            "district": "Tumkur",
+            "name": "Shreedevi Institute of Medical Sciences and Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "255",
+            "district": "Tumkur",
+            "name": "THS Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "256",
+            "district": "Tumkur",
+            "name": "Shri Siddhartha Institute of Medical Sciences and Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "257",
+            "district": "Udupi",
+            "name": "DH Udupi",
+            "type": "Public"
+        },
+        {
+            "sno": "258",
+            "district": "Udupi",
+            "name": "GH KARKALA",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "259",
+            "district": "Udupi",
+            "name": "Sub -Divisional Hospl Kundapura",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "260",
+            "district": "Udupi",
+            "name": "SRI MANJUNATHA HOSPITAL KUNDAPURA",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "261",
+            "district": "Udupi",
+            "name": "SRI DURGA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "262",
+            "district": "Udupi",
+            "name": "AROORS NURSING HOME",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "263",
+            "district": "Udupi",
+            "name": "SRI RAGHAVENDRA MATERNITY & GENERAL HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "264",
+            "district": "Udupi",
+            "name": "KAMATHS NURSHING HOME",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "265",
+            "district": "Udupi",
+            "name": "NEW MEDICAL CENTRE",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "266",
+            "district": "Udupi",
+            "name": "AMAR JYOTHI CLINIC",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "267",
+            "district": "Udupi",
+            "name": "GURUKRIPA GENERAL HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "268",
+            "district": "Udupi",
+            "name": "NITTE GAJRIA SPECIALITY HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "269",
+            "district": "Udupi",
+            "name": "LALITH HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "270",
+            "district": "Udupi",
+            "name": "GORETTI HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "271",
+            "district": "Udupi",
+            "name": "GANDHI HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "272",
+            "district": "Udupi",
+            "name": "SURGEONS HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "273",
+            "district": "Udupi",
+            "name": "PRASHANTH HOSPITAL KAPU",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "274",
+            "district": "Udupi",
+            "name": "ANJALI HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "275",
+            "district": "Udupi",
+            "name": "VIVEK HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "276",
+            "district": "Udupi",
+            "name": "KOWDUR SRINIVASA HEGDE MEMORIAL HEALTH CENTRE",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "277",
+            "district": "Udupi",
+            "name": "HITECH MEDICAL HOSPITAL& RESEARCH CENTRE",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "278",
+            "district": "Udupi",
+            "name": "DR. N.R. ACHARYA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "279",
+            "district": "Udupi",
+            "name": "SRI MATHA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "280",
+            "district": "Udupi",
+            "name": "CHINMAYI HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "281",
+            "district": "Udupi",
+            "name": "VINAYA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "282",
+            "district": "Udupi",
+            "name": "SPANDANA MATERNITY & GENERAL HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "283",
+            "district": "Udupi",
+            "name": "KARKALA NURSING HOME",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "284",
+            "district": "Udupi",
+            "name": "CITY NURSING HOME, KARKALA",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "285",
+            "district": "Udupi",
+            "name": "MALLYA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "286",
+            "district": "Udupi",
+            "name": "KAMATH`S NURSHING HOME",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "287",
+            "district": "Udupi",
+            "name": "DR.A.V.BALIGA MEMORIAL HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "288",
+            "district": "Udupi",
+            "name": "SONIA CLINIC& NURSHING HOME",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "289",
+            "district": "Udupi",
+            "name": "CITY HOSPITAL AND DIAGNOSTIC CENTER Udupi",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "290",
+            "district": "Udupi",
+            "name": "C.S.I. LOMBORD MEMORIAL HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "291",
+            "district": "Udupi",
+            "name": "PRANAV HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "292",
+            "district": "Udupi",
+            "name": "MITHRA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "293",
+            "district": "Udupi",
+            "name": "SRI MATHA HOSPITAL & REHABILITATION CENTRE",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "294",
+            "district": "Udupi",
+            "name": "JEEVAN JYOTI HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "295",
+            "district": "Udupi",
+            "name": "SUNAG ORTHOCARE & MULTI-SPECIALITY CENTRE",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "296",
+            "district": "Udupi",
+            "name": "SRI DEVI HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "297",
+            "district": "Udupi",
+            "name": "NEW CITY HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "298",
+            "district": "Udupi",
+            "name": "ADARSHA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "299",
+            "district": "Udupi",
+            "name": "ADARSHA HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "300",
+            "district": "Udupi",
+            "name": "MAHESH HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "301",
+            "district": "Udupi",
+            "name": "Dr. T.M.A. PAI ROTARY HOSPITAL",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "302",
+            "district": "Uttar Kannada",
+            "name": "Karvar Navy Hospital",
+            "type": "DEFENCE"
+        },
+        {
+            "sno": "303",
+            "district": "Uttar Kannada",
+            "name": "KUMTA TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "304",
+            "district": "Uttar Kannada",
+            "name": "TH SUPA",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "305",
+            "district": "Uttar Kannada",
+            "name": "HONNAVAR TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "306",
+            "district": "Uttar Kannada",
+            "name": "YELLAPUR TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "307",
+            "district": "Uttar Kannada",
+            "name": "HALIYAL TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "308",
+            "district": "Uttar Kannada",
+            "name": "SIRSI TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "309",
+            "district": "Uttar Kannada",
+            "name": "MUNDGOD TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "310",
+            "district": "Uttar Kannada",
+            "name": "Taluk Hospitl Bhatkal",
+            "type": "Public"
+        },
+        {
+            "sno": "311",
+            "district": "Uttar Kannada",
+            "name": "Dandeli GH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "312",
+            "district": "Uttar Kannada",
+            "name": "SIDDAPUR TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "313",
+            "district": "Uttar Kannada",
+            "name": "ANKOLA TH",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "314",
+            "district": "Uttar Kannada",
+            "name": "RNS Hospital",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "315",
+            "district": "UttarKannada",
+            "name": "TSS SIRSI",
+            "type": "PRIVATE"
+        },
+        {
+            "sno": "316",
+            "district": "Vijayapur",
+            "name": "Al Ameen Medical college Hospital",
+            "type": "Private"
+        },
+        {
+            "sno": "317",
+            "district": "Vijayapur",
+            "name": "BLDE(DU)Shri B.M.Patil Medical College Hospital and Research Centre",
+            "type": "Private"
+        },
+        {
+            "sno": "318",
+            "district": "Vijayapura",
+            "name": "TLH B.BAGEWADI",
+            "type": "PUBLIC"
+        },
+        {
+            "sno": "319",
+            "district": "Vijayapura",
+            "name": "TGH Muddebihal",
+            "type": "public"
+        },
+        {
+            "sno": "320",
+            "district": "Vijayapura",
+            "name": "TH Indi",
+            "type": "Public"
+        },
+        {
+            "sno": "321",
+            "district": "Vijayapura",
+            "name": "TH Sindagi (58/100)",
+            "type": "Public"
+        },
+        {
+            "sno": "322",
+            "district": "Yadagiri",
+            "name": "GH Shahapur",
+            "type": "Public"
+        },
+        {
+            "sno": "323",
+            "district": "Yadagiri",
+            "name": "Govt GH Surpur",
+            "type": "Public"
+        }
+    ],
+    "dc": [
+        {
+            "sno": "1",
+            "district": "Bagalkote",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "2",
+            "district": "Ballari",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "3",
+            "district": "Bangalore",
+            "name": "Bowring Medical College",
+            "type": "Public"
+        },
+        {
+            "sno": "4",
+            "district": "Bangalore",
+            "name": "RajaRajeshwari Medical College",
+            "type": "Private"
+        },
+        {
+            "sno": "5",
+            "district": "Bangalore",
+            "name": "Victoria Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "6",
+            "district": "Belagavi",
+            "name": "BIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "7",
+            "district": "Bidar",
+            "name": "BRIMS",
+            "type": "Public"
+        },
+        {
+            "sno": "8",
+            "district": "Chamarajnagara",
+            "name": "CIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "9",
+            "district": "Chikkaballapur",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "10",
+            "district": "Chikkamagalur",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "11",
+            "district": "Chitradurga",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "12",
+            "district": "Davangere",
+            "name": "Chigateri Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "13",
+            "district": "Dharwad",
+            "name": "KIMS, Hubli",
+            "type": "Public"
+        },
+        {
+            "sno": "14",
+            "district": "DK",
+            "name": "Wenlock Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "15",
+            "district": "Gadag",
+            "name": "GIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "16",
+            "district": "Hassan",
+            "name": "HIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "17",
+            "district": "Haveri",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "18",
+            "district": "Kalaburagi",
+            "name": "ESIC Medical College Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "19",
+            "district": "Kodagu",
+            "name": "KIMS, Kodagu",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "20",
+            "district": "Kolar",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "21",
+            "district": "Koppal",
+            "name": "KIMS, Koppala",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "22",
+            "district": "Mandya",
+            "name": "MIMS",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "23",
+            "district": "Mysore",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "24",
+            "district": "Raichur",
+            "name": "Rajiv Gandhi Superspeciality Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "25",
+            "district": "Ramanagar",
+            "name": "Kandaya Bhavana",
+            "type": "Public"
+        },
+        {
+            "sno": "26",
+            "district": "Shimogga",
+            "name": "Mc Gann Hospital",
+            "type": "Public Medical College"
+        },
+        {
+            "sno": "27",
+            "district": "Tumkur",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "28",
+            "district": "UDUPI",
+            "name": "Dr. TMA Pai Hospital, Udupi",
+            "type": "Private"
+        },
+        {
+            "sno": "29",
+            "district": "Uttara Kannada",
+            "name": "KIMS, Karwar",
+            "type": "Public"
+        },
+        {
+            "sno": "30",
+            "district": "Vijayapura",
+            "name": "District Hospital",
+            "type": "Public"
+        },
+        {
+            "sno": "31",
+            "district": "Yadagiri",
+            "name": "District Hospital",
+            "type": "Public"
+        }
+    ]
+}
