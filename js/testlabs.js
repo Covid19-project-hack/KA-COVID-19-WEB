@@ -23,8 +23,8 @@ $(document).ready(function(){
       <h5><b>${element.name}</b></h5>
     </div>
     <br>
-    <p class="mb-1"><i class="fas fa-map-marker" style="margin-right: 15px;"> </i>   ${element.location}</p>
     <p class="mb-1"><i class="fas fa-tag" style="margin-right: 15px;"> </i>   ${element.type}</p>
+    <p class="mb-1"><i class="fas fa-hashtag" style="margin-right: 15px;"> </i><span class="text-muted">Type :</span>  ${element.test_type}</p>
     </div>`;
     });   
 });
